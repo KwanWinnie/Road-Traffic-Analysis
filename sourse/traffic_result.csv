@@ -1,0 +1,787 @@
+Day,detector_id,lane,speed,occupancy,volume,District,Road_EN
+1,AID01101,Fast Lane,0.590735219,0.146849667,1.55694239,Southern,Aberdeen Praya Road near Abba House - Eastbound 
+1,AID01102,Middle Lane,0.287508777,-0.180912734,-0.004105914,Southern,Aberdeen Praya Road near Hoi Fai Mansion - Eastbound 
+1,AID01102,Fast Lane,0.236971037,-0.0716586,0.516243521,Southern,Wong Chuk Hang Road near Aberdeen Technical School - Eastbound 
+1,AID01102,Middle Lane,0.338046518,-0.290166868,0.256068804,Southern,Wong Chuk Hang Road Flyover near AXA Southside - Eastbound 
+1,AID01102,Slow Lane,-0.57163281,-0.290166868,-0.264280631,Southern,Wong Chuk Hang Road Flyover near Benefit Industrial Factory Building - Eastbound 
+1,AID01103,Fast Lane,0.135895556,-0.180912734,0.256068804,Southern,Wong Chuk Hang Road near Hong Kong Academy of Medicine - Eastbound 
+1,AID01103,Middle Lane,-0.066255406,-0.180912734,-0.264280631,Southern,Aberdeen Tunnel near Wong Chuk Hang Hospital - Eastbound 
+1,AID01103,Slow Lane,-0.470557329,-0.508675136,-1.044804782,Wan Chai,Wong Nai Chung Gap Flyover near Racecourse - Northbound 
+1,AID01104,Fast Lane,-0.268406367,0.474612069,1.296767672,Wan Chai,Canal Road Flyover near Cricket Club - Northbound 
+1,AID01105,Slow Lane,-0.925396992,-0.399421002,-1.044804782,Wan Chai,Canal Road Flyover near Wan Chai Fire Station - Northbound 
+1,AID01105,Fast Lane,0.439121998,-0.61792927,-0.784630065,Kowloon City,Hong Chong Road near The Hong Kong Polytechnic University - Northbound (1) 
+1,AID01105,Slow Lane,0.338046518,-0.61792927,-0.264280631,Kowloon City,Hong Chong Road near The Hong Kong Polytechnic University - Northbound (2) 
+1,AID01106,Fast Lane,-2.744755646,4.626269153,-0.264280631,Yau Tsim Mong,Princess Margaret Road near Parc Palais- Northbound  
+1,AID01106,Slow Lane,-2.593142425,2.113424076,-0.264280631,Kowloon City,Princess Margaret Road near Oi Man Estate - Northbound 
+1,AID01107,Fast Lane,-0.773783771,1.67640754,2.597641258,Kowloon City,Princess Margaret Road near Yu Chun Keung Memorial College - Northbound 
+1,AID01108,Fast Lane,-0.066255406,-0.399421002,-0.004105914,Kowloon City,Princess Margaret Road near St. John Ambulance Brigade Kowloon Depot - Northbound 
+1,AID01108,Slow Lane,0.338046518,-0.399421002,0.776418238,Kowloon City,Waterloo Road near St. George Apartments - Northbound 
+1,AID01109,Fast Lane,-2.441529204,1.67640754,0.516243521,Kowloon City,Waterloo Road near Kowloon Tong Club - Northbound 
+1,AID01109,Slow Lane,-0.975934733,0.037595533,0.776418238,Kowloon City,Waterloo Road near Durham Road - Northbound 
+1,AID01110,Fast Lane,-1.178085694,0.583866202,0.516243521,Kowloon City,Waterloo Road near Kowloon East Barracks(1) - Northbound 
+1,AID01110,Middle Lane,-1.9361518,2.113424076,1.036592955,Kowloon City,Waterloo Road near Kowloon East Barracks(2) - Northbound 
+1,AID01110,Slow Lane,-1.430774396,1.67640754,1.296767672,Kowloon City,Waterloo Road near Warwick Road - Northbound 
+1,AID01111,Fast Lane,-0.824321511,1.457899273,2.077291824,Kowloon City,Lion Rock Tunnel Road near Entrance from Kowloon - Northbound 
+1,AID01111,Middle Lane ,-0.521095069,0.256103801,-0.004105914,Sha Tin,Lion Rock Tunnel Road near Toll Plaza - Northbound 
+1,AID01111,Middle Lane ,-0.318944108,0.365357935,0.776418238,Sha Tin,Lion Rock Tunnel Road near Worldwide Gardens - Northbound 
+1,AID01111,Slow Lane,-0.369481848,-0.399421002,-0.784630065,Sha Tin,Lion Rock Tunnel Road near Kak Tin Village - Northbound (1) 
+1,AID01112,Fast Lane,-0.67270829,0.474612069,0.776418238,Sha Tin,Lion Rock Tunnel Road near Kak Tin Village - Northbound (2) 
+1,AID01112,Middle Lane ,-1.127547954,0.037595533,-0.004105914,Sha Tin,Lion Rock Tunnel Road near Fung Shing Court - Northbound 
+1,AID01112,Middle Lane ,-0.62217055,0.037595533,0.256068804,Sha Tin,Sha Tin Road near Pok Hong Estate - Northbound 
+1,AID01112,Slow Lane,-0.217868627,-0.399421002,-1.044804782,Sha Tin,Sha Tin Road near Christ College - Northbound 
+1,AID01113,Fast Lane,0.540197479,-0.508675136,-0.004105914,Sha Tin,Sha Tin Road near Sha Tin Wai New Village - Northbound 
+1,AID01113,Middle Lane,0.034820075,-0.180912734,0.256068804,Sha Tin,Sha Tin Road near Prince of Wales Hospital - Northbound 
+1,AID01114,Fast Lane,0.540197479,-0.727183403,-0.524455348,Sha Tin,Sha Tin Road near Shing Mun River - Northbound(1) 
+1,AID01114,Middle Lane,0.287508777,-0.61792927,-0.524455348,Sha Tin,Sha Tin Road near Shing Mun River - Northbound 
+1,AID01114,Slow Lane,-0.57163281,-0.399421002,-0.264280631,Sha Tin,Sha Tin Road near Hong Kong Institute of Vocational Education (Sha Tin) - Northbound 
+1,AID01115,Fast Lane,-0.57163281,-0.0716586,0.776418238,Sha Tin,Sha Tin Road near Fo Tan Railway House - Northbound 
+1,AID01115,Middle Lane,-0.521095069,-0.727183403,-1.3049795,Wong Tai Sin,Lion Rock Tunnel Road near Exit to Kowloon - Southbound 
+1,AID01115,Slow Lane,-1.127547954,-0.399421002,-0.524455348,Kowloon City,Waterloo Road near Warwick Road - Southbound 
+1,AID01116,Fast Lane,-0.015717665,-0.180912734,0.256068804,Kowloon City,Waterloo Road near Junction Road - Southbound 
+1,AID01116,Slow Lane,0.034820075,-0.61792927,-0.524455348,Kowloon City,Waterloo Road near Kowloon East Barracks - Southbound 
+1,AID01117,Fast Lane,-2.593142425,4.407760886,-0.264280631,Kowloon City,Waterloo Road near American Internationnal School - Southbound 
+1,AID01117,Middle Lane,-2.138302762,-0.508675136,-1.044804782,Kowloon City,Waterloo Road near Kowloon Tong Club - Southbound 
+1,AID01117,Middle Lane,-2.744755646,4.298506752,0.256068804,Kowloon City,Waterloo Road near St. George Apartments - Southbound 
+1,AID01118,Fast Lane,-2.087765021,0.693120336,0.776418238,Kowloon City,Princess Margaret Road near St. John Ambulance Brigade Kowloon Depot - Southbound 
+1,AID01118,Middle Lane,-2.138302762,1.348645139,1.296767672,Kowloon City,Princess Margaret Road near Yu Chun Keung Memorial College - Southbound 
+1,AID01118,Slow Lane,-1.127547954,-0.508675136,-0.784630065,Kowloon City,Princess Margaret Road near Oi Man Estate - Southbound 
+1,AID01120,Fast Lane,-0.015717665,-0.290166868,-0.004105914,Kowloon City,Princess Margaret Road near Oi Man Estate - Southbound(2) 
+1,AID01120,Middle Lane,0.236971037,-0.61792927,-0.784630065,Kowloon City,Princess Margaret Road near King's Park -Southbound 
+1,AID01120,Slow Lane,-1.430774396,-0.0716586,-0.524455348,Kowloon City,Hong Chong Road near The Hong Kong Polytechnic University - Southbound 
+1,AID01121,Fast Lane,-0.318944108,0.474612069,2.077291824,Wan Chai,Canal Road Flyover near Elizabeth House - Southbound 
+1,AID01121,Slow Lane,0.186433296,-0.399421002,-0.784630065,Wan Chai,Canal Road Flyover near Wing Tak Building - Southbound 
+1,AID01122,Fast Lane,0.6918107,-0.399421002,-0.004105914,Wan Chai,Wong Nai Chung Gap Flyover near Racecourse - Southbound 
+1,AID01123,Fast Lane,-0.62217055,-0.0716586,1.55694239,Southern,Aberdeen Tunnel near Toll Plaza - Westbound 
+1,AID01123,Slow Lane,-1.077010213,-0.399421002,-0.524455348,Southern,Wong Chuk Hang Road near Wong Chuk Hang Sports Centre - Westbound 
+1,AID01124,Fast Lane,0.489659739,-0.290166868,0.256068804,Southern,Wong Chuk Hang Road near Wong Chuk Hang Recreation Ground - Westbound 
+1,AID01124,Slow Lane,0.236971037,-0.0716586,0.516243521,Southern,Wong Chuk Hang Road Flyover near Cheung Tak Industrial Building - Westbound 
+1,AID01125,Fast Lane,0.489659739,0.146849667,2.597641258,Southern,Wong Chuk Hang Road near Aberdeen Police Station - Westbound 
+1,AID01125,Slow Lane,0.085357816,-0.399421002,0.256068804,Southern,Aberdeen Praya Road near Ocean Court - Westbound 
+1,AID01126,Fast Lane,0.6918107,0.256103801,1.817117107,Southern,Aberdeen Praya Road near Aberdeen Bus Terminus - Westbound 
+1,AID01126,Slow Lane,0.186433296,0.037595533,0.256068804,Kwun Tong,Kwun Tong Bypass near Sceneway Garden - Westbound 
+1,AID01127,Fast Lane,0.843423921,-0.180912734,0.776418238,Kwun Tong,Kwun Tong Bypass near Magistrates Courts - Westbound 
+1,AID01127,Slow Lane,1.500414546,0.256103801,0.256068804,Kwun Tong,Kwun Tong Bypass near Laguna City - Westbound 
+1,AID01128,Fast Lane,1.146650364,-0.399421002,0.516243521,Kwun Tong,Kwun Tong Bypass near Manulife Financial Centre - Westbound 
+1,AID01128,Slow Lane,0.489659739,0.583866202,2.077291824,Kwun Tong,Kwun Tong Bypass near Kwun Tong Ferry - Westbound 
+1,AID01129,Fast Lane,-0.116793146,0.146849667,1.817117107,Kwun Tong,Kwun Tong Bypass near Kowloon Flour Mills - Northbound 
+1,AID01129,Slow Lane,-1.228623435,1.67640754,1.817117107,Kwun Tong,Kwun Tong Bypass near NEO - Northbound 
+1,AID01131,Fast Lane,1.601490027,-0.508675136,-0.004105914,Kwun Tong,Kwun Tong Bypass near Kowloon Godown - Northbound 
+1,AID01131,Slow Lane,0.995037143,-0.399421002,-0.004105914,Kwun Tong,Kwun Tong Bypass near Kai Tak Fire Station - Northbound 
+1,AID01132,Fast Lane,1.449876806,-0.61792927,-0.784630065,Kwun Tong,Kwun Tong Bypass near MegaBox - Northbound 
+1,AID01132,Middle Lane,1.146650364,-0.61792927,-0.264280631,Kwun Tong,Kwun Tong Bypass near Trade & Exhibition Centre - Northbound 
+1,AID01132,Slow Lane,1.096112623,-0.61792927,-0.524455348,Kwun Tong,Kwun Tong Bypass near Kowloon Bay Park - Northbound 
+1,AID01133,Fast Lane,1.90471647,-0.727183403,-0.784630065,Kwun Tong,Kwun Tong Bypass near Choi Hung Estate - Northbound 
+1,AID01133,Slow Lane,1.652027768,-0.727183403,-1.044804782,Wong Tai Sin,Tate's Cairn Highway near Chi Lin Nunnery - Northbound 
+1,AID01134,Fast Lane,0.64127296,0.037595533,1.55694239,Sha Tin,Tate's Cairn Tunnel near Toll Plaza - Northbound 
+1,AID01134,Slow Lane,0.742348441,-0.508675136,-0.264280631,Sha Tin,Tate's Cairn Highway near HK School of Motoring - Northbound 
+1,AID01135,Fast Lane,1.197188104,-0.61792927,-0.004105914,Sha Tin,Tate's Cairn Highway near HKBU (Shek Mun) - Northbound 
+1,AID01135,Slow Lane,1.298263585,0.037595533,2.337466541,Sha Tin,Tate's Cairn Highway near On Sum Street - Northbound 
+1,AID01136,Fast Lane,0.64127296,-0.0716586,1.296767672,Sha Tin,Tate's Cairn Highway near Rowing Centre - Northbound 
+1,AID01136,Slow Lane,0.540197479,-0.290166868,0.256068804,Sha Tin,Tate's Cairn Highway near Shatin Hospital - Northbound 
+1,AID01201,Fast Lane,-0.318944108,-0.0716586,1.296767672,Sha Tin,Tate's Cairn Highway near A Kung Kok Sports Grounds - Northbound 
+1,AID01201,Slow Lane,-1.026472473,0.911628604,1.817117107,Sha Tin,Tate's Cairn Highway near Tai Shui Hang Bicycle Park - Northbound 
+1,AID01202,Fast Lane,-0.318944108,-0.290166868,0.516243521,Sha Tin,Tate's Cairn Highway near Marine Police Station - Northbound 
+1,AID01202,Slow Lane,-0.167330886,-0.727183403,-0.784630065,Sha Tin,Tate's Cairn Highway near Hyatt Regency ShaTin - Northbound 
+1,AID01203,Fast Lane,0.085357816,-0.508675136,-0.264280631,Wong Tai Sin,Tate's Cairn Highway near Chi Lin Nunnery - Southbound 
+1,AID01203,Slow Lane,0.186433296,-0.61792927,-0.524455348,Wong Tai Sin,Tate's Cairn Highway near Choi Hung Estate - Southbound 
+1,AID01204,Fast Lane,-2.138302762,2.113424076,-0.004105914,Kwun Tong,Kwun Tong Bypass near Kai Ching Estate - Southbound 
+1,AID01204,Middle Lane,-2.087765021,-0.290166868,-0.784630065,Kwun Tong,Kwun Tong Bypass near Skyline Tower Car Park - Southbound 
+1,AID01204,Slow Lane,-2.441529204,1.020882738,-0.264280631,Kwun Tong,Kwun Tong Bypass near Trade & Exhibition Centre - Southbound 
+1,AID01206,Fast Lane,-1.835076319,1.894915808,1.817117107,Kwun Tong,Kwun Tong Bypass near MegaBox - Southbound 
+1,AID01206,Slow Lane,-1.380236656,0.474612069,0.256068804,Kwun Tong,Kwun Tong Bypass near Vehicle Examination Centre - Southbound 
+1,AID01207,Fast Lane,-0.723246031,0.693120336,2.597641258,Kwun Tong,Kwun Tong Bypass near Kowloon Godown - Southbound 
+1,AID01207,Middle Lane,-1.228623435,0.583866202,0.256068804,Kwun Tong,Kwun Tong Bypass near MG Tower - Southbound 
+1,AID01208,Fast Lane,-0.167330886,0.474612069,2.597641258,Kwun Tong,Kwun Tong Bypass near Kowloon Flour Mills - Southbound 
+1,AID01208,Slow Lane,-0.369481848,-0.399421002,-0.004105914,Kwun Tong,Kwun Tong Bypass near Kwun Tong Ferry - Eastbound 
+1,AID01209,Fast Lane,0.590735219,-0.399421002,0.256068804,Kwun Tong,Kwun Tong Bypass near Kwun Tong Sewage Treatment Works - Eastbound 
+1,AID01209,Middle Lane,0.388584258,-0.61792927,-0.524455348,Kwun Tong,Kwun Tong Bypass near Manulife Financial Centre - Eastbound 
+1,AID01209,Slow Lane,-1.279161175,-0.399421002,-0.524455348,Kwun Tong,Kwun Tong Bypass near Sunbeam Centre - Eastbound 
+1,AID01210,Fast Lane,-0.268406367,0.037595533,1.296767672,Kwun Tong,Kwun Tong Bypass near Sceneway Garden - Eastbound 
+2,AID01101,Middle Lane,0.893961662,-0.508675136,-0.784630065,Central & Western,Connaught Road West Flyover near Tram Depot - Eastbound 
+2,AID01102,Fast Lane,0.893961662,-0.399421002,-0.004105914,Central & Western,Connaught Road West near Western Wholesale Food Market - Northbound 
+2,AID01102,Slow Lane,0.135895556,-0.290166868,-0.264280631,Central & Western,Connaught Road West near Sun Yat Sen Memorial Park - Northbound (1) 
+2,AID01103,Fast Lane,-0.975934733,1.020882738,1.55694239,Central & Western,Connaught Road West near Sun Yat Sen Memorial Park - Northbound (2) 
+2,AID01103,Middle Lane,-0.925396992,-0.180912734,-0.264280631,Yau Tsim Mong,West Kowloon Highway near Centenary Substation - Northbound 
+2,AID01103,Slow Lane,-0.167330886,-0.61792927,-0.784630065,Yau Tsim Mong,West Kowloon Highway near Olympic Plaza - Northbound 
+2,AID01104,Fast Lane,0.64127296,-0.399421002,-0.264280631,Yau Tsim Mong,West Kowloon Highway near Olympic MTR Station - Northbound (1) 
+2,AID01104,Slow Lane,0.236971037,-0.290166868,-0.784630065,Yau Tsim Mong,West Kowloon Highway near Olympic MTR Station - Northbound (2) 
+2,AID01105,Fast Lane,0.742348441,0.037595533,0.516243521,Sham Shui Po,West Kowloon Highway near Tai Kok Tsui Substation - Northbound 
+2,AID01105,Slow Lane,1.197188104,-0.290166868,-0.524455348,Sham Shui Po,West Kowloon Highway near Nam Cheong MTR Station - Northbound 
+2,AID01106,Fast Lane,-0.975934733,0.365357935,0.776418238,Sham Shui Po,West Kowloon Highway near Hing Wah Street West - Northbound 
+2,AID01106,Slow Lane,-0.67270829,-0.727183403,-1.3049795,Sham Shui Po,West Kowloon Highway near SKH St. Andrew's Primary School - Northbound 
+2,AID01107,Fast Lane,-0.167330886,0.146849667,0.776418238,Sham Shui Po,West Kln Hwy near Tsing Sha Hwy - Northbound 
+2,AID01107,Slow Lane,-1.481312137,0.256103801,-1.044804782,Tsuen Wan,Tsing Long Highway near Royal View Hotel - Northbound 
+2,AID01109,Fast Lane,-0.167330886,0.037595533,0.256068804,Tsuen Wan,Tsing Long Highway near Tai Lam Tunnel Entrance from Kowloon - Northbound 
+2,AID01109,Slow Lane,-0.925396992,0.256103801,0.516243521,Yuen Long,Tsing Long Highway near MTR Pat Heung Maintenance Centre - Northbound (1) 
+2,AID01110,Fast Lane,-0.369481848,-0.399421002,-0.524455348,Yuen Long,Tsing Long Highway near MTR Pat Heung Maintenance Centre - Northbound (2) 
+2,AID01110,Middle Lane,-1.077010213,0.583866202,1.296767672,Yuen Long,Tsing Long Highway near MTR Kam Sheung Road Station - Northbound (1) 
+2,AID01110,Slow Lane,-1.127547954,1.348645139,2.337466541,Yuen Long,Tsing Long Highway near MTR Kam Sheung Road Station - Northbound (2) 
+2,AID01111,Fast Lane,0.034820075,0.693120336,2.597641258,Yuen Long,Tsing Long Highway near Kam Tin Road - Northbound (1) 
+2,AID01111,Middle Lane,0.489659739,-0.290166868,-0.004105914,Yuen Long,Tsing Long Highway near Kam Tin Road - Northbound (2) 
+2,AID01111,Middle Lane,0.085357816,-0.180912734,-0.784630065,Yuen Long,Tsing Long Highway near Kam Tin Road - Northbound (3) 
+2,AID01111,Slow Lane,-0.369481848,-0.727183403,-0.264280631,Yuen Long,Tsing Long Highway near Castle Peak Road (Yuen Long) - Northbound (1) 
+2,AID01112,Fast Lane,-0.116793146,0.146849667,1.296767672,Yuen Long,Tsing Long Highway near Castle Peak Road (Yuen Long) - Northbound (2) 
+2,AID01112,Middle Lane,0.742348441,-0.727183403,-1.044804782,Tsuen Wan,Tsing Long Highway near Tai Lam Tunnel exit to Kowloon - Southbound 
+2,AID01112,Middle Lane,-0.167330886,-0.180912734,0.516243521,Kwai Tsing,Tsing Kwai Highway near China Resources Int'l Logistics Centre - Southbound 
+2,AID01112,Slow Lane,-0.67270829,-0.727183403,-1.044804782,Sham Shui Po,West Kln Hwy near Hoi Lai Estate - Southbound 
+2,AID01113,Fast Lane,0.439121998,-0.61792927,-0.524455348,Sham Shui Po,West Kowloon Highway near Hing Wah Street West - Southbound 
+2,AID01113,Middle Lane,0.338046518,-0.399421002,-0.264280631,Sham Shui Po,West Kowloon Highway near Nam Cheong MTR Statoin - Southbound 
+2,AID01114,Fast Lane,0.439121998,-0.508675136,-0.264280631,Sham Shui Po,West Kowloon Highway near Tai Kok Tsui Substation - Southbound 
+2,AID01114,Middle Lane,0.085357816,-0.508675136,-0.004105914,Yau Tsim Mong,West Kowloon Highway near Olympian City Promenade Park - Southbound 
+2,AID01114,Slow Lane,-0.015717665,-0.61792927,-0.264280631,Yau Tsim Mong,West Kowloon Highway near Olympic MTR Station - Southbound 
+2,AID01115,Fast Lane,-0.268406367,0.037595533,1.036592955,Yau Tsim Mong,West Kowloon Highway near Hoi Fai Road Promenade - Southbound 
+2,AID01115,Middle Lane,0.085357816,-0.290166868,-0.784630065,Yau Tsim Mong,West Kowloon Highway near Olympic Plaza - Southbound 
+2,AID01115,Slow Lane,0.287508777,-0.399421002,-1.3049795,Yau Tsim Mong,West Kowloon Highway near Centenary Substation - Southbound 
+2,AID01116,Fast Lane,0.388584258,-0.290166868,0.516243521,Central & Western,Shing Sai Road near Kennedy Town Swimming Pool - Eastbound 
+2,AID01116,Slow Lane,-0.521095069,-0.508675136,-1.3049795,Central & Western,Connaught Road West Flyover near Western Harbour Centre - Eastbound 
+2,AID01117,Fast Lane,-0.066255406,-0.290166868,-0.004105914,Central & Western,Connaught Road West Flyover near The Westpoint - Eastbound 
+2,AID01117,Middle Lane,-0.420019588,-0.399421002,-0.264280631,Central & Western,Connaught Road West Flyover near Sun Yat Sen Memorial Park - Eastbound 
+2,AID01117,Middle Lane,-0.268406367,-0.399421002,-0.264280631,Central & Western,Connaught Road West Flyover near Central Police Station - Eastbound 
+2,AID01117,Slow Lane,-0.369481848,-0.399421002,-0.524455348,Eastern,Island Eastern Corridor near Provident Centre - Eastbound 
+2,AID01118,Middle Lane,-3.047982089,-0.399421002,-1.3049795,Eastern,Island Eastern Corridor near North Point Ferry Pier Eastbound 
+2,AID01118,Slow Lane,-1.582387617,-0.0716586,-0.264280631,Eastern,Island Eastern Corridor near ICAC Headquarters - Eastbound 
+2,AID01120,Fast Lane,0.287508777,-0.290166868,0.256068804,Eastern,Island Eastern Corridor near North Point Government Offices - Eastbound 
+2,AID01120,Middle Lane,0.6918107,-0.61792927,-0.784630065,Eastern,Island Eastern Corridor near Quarry Bay Park Phase 2 - Eastbound 
+2,AID01120,Slow Lane,-0.773783771,-0.0716586,0.516243521,Eastern,Island Eastern Corridor near Quarry Bay Park Phase 1 - Eastbound 
+2,AID01121,Fast Lane,0.287508777,-0.290166868,0.256068804,Eastern,Island Eastern Corridor near Taikoo Shing - Eastbound 
+2,AID01121,Slow Lane,-0.470557329,-0.61792927,-1.044804782,Eastern,Island Eastern Corridor near Tai On Building - Eastbound 
+2,AID01122,Fast Lane,0.489659739,-0.180912734,0.776418238,Eastern,Island Eastern Corridor near St. Mark's School - Eastbound 
+2,AID01122,Slow Lane,-0.116793146,0.256103801,-0.524455348,Eastern,Island Eastern Corridor near Aldrich Garden - Eastbound 
+2,AID01123,Fast Lane,-1.279161175,1.67640754,2.597641258,Eastern,Island Eastern Corridor near Heng Fa Chuen - Eastbound (1) 
+2,AID01123,Slow Lane,-1.077010213,0.583866202,0.256068804,Eastern,Island Eastern Corridor near Heng Fa Chuen - Eastbound (2) 
+2,AID01124,Fast Lane,0.6918107,0.256103801,3.117990693,Eastern,Island Eastern Corridor near Heng Fa Chuen - Eastbound (3) 
+2,AID01124,Slow Lane,0.135895556,0.146849667,1.036592955,Eastern,Island Eastern Corridor near HKIVE (Chai Wan) - Southbound 
+2,AID01125,Fast Lane,0.944499402,-0.508675136,-0.264280631,Eastern,Island Eastern Corridor near Chai Wan Park - Southbound 
+2,AID01125,Slow Lane,0.540197479,0.037595533,-0.004105914,Eastern,Island Eastern Corridor near ICAC Headquarters - Eastbound 
+2,AID01126,Fast Lane,0.742348441,0.037595533,1.296767672,Eastern,Island Eastern Corridor near North Point Government Offices - Eastbound 
+2,AID01126,Slow Lane,0.489659739,-0.0716586,-0.004105914,Eastern,Island Eastern Corridor near Chai Wan MTR Station - Northbound 
+2,AID01127,Fast Lane,0.236971037,0.80237447,2.597641258,Eastern,Island Eastern Corridor near Eastern Hospital - Northbound 
+2,AID01127,Slow Lane,0.388584258,0.583866202,1.296767672,Eastern,Island Eastern Corridor near HKIVE (Chai Wan) - Northbound 
+2,AID01128,Fast Lane,1.550952287,-0.508675136,0.256068804,Eastern,Island Eastern Corridor near Heng Fa Chuen - Northbound (1) 
+2,AID01128,Slow Lane,0.792886181,0.037595533,1.55694239,Eastern,Island Eastern Corridor near Heng Fa Chuen - Northbound (2) 
+2,AID01129,Fast Lane,0.388584258,-0.290166868,0.516243521,Eastern,Island Eastern Corridor near Museum of Coastal Defence - Northbound 
+2,AID01129,Slow Lane,0.236971037,0.256103801,1.55694239,Eastern,Island Eastern Corridor near Aldrich Garden - Westbound 
+2,AID01131,Fast Lane,1.753103248,-0.508675136,0.516243521,Eastern,Island Eastern Corridor near Oi Tung Estate - Westbound 
+2,AID01131,Slow Lane,1.197188104,-0.508675136,-0.004105914,Eastern,Island Eastern Corridor near Tai On Building - Westbound 
+2,AID01132,Fast Lane,1.652027768,-0.290166868,0.256068804,Eastern,Island Eastern Corridor near Taikoo Shing - Westbound (1) 
+2,AID01132,Middle Lane,0.944499402,-0.0716586,0.516243521,Eastern,Island Eastern Corridor near Taikoo Shing - Westbound (2) 
+2,AID01133,Fast Lane,2.106867431,-0.61792927,-0.004105914,Eastern,Island Eastern Corridor near Quarry Bay Park Phase 1 - Westbound (1) 
+2,AID01133,Slow Lane,1.348801325,-0.290166868,-0.264280631,Eastern,Island Eastern Corridor near Quarry Bay Park Phase 1 - Westbound (2) 
+2,AID01134,Fast Lane,1.096112623,-0.290166868,0.776418238,Eastern,Island Eastern Corridor near Quarry Bay Park Phase 2 - Westbound 
+2,AID01134,Slow Lane,0.338046518,-0.399421002,-0.524455348,Eastern,Island Eastern Corridor near North Point Government Offices - Westbound 
+2,AID01135,Fast Lane,1.550952287,-0.61792927,-0.264280631,Eastern,Island Eastern Corridor near Vehicle Ferry Pier - Westbound 
+2,AID01135,Slow Lane,1.601490027,-0.508675136,0.256068804,Eastern,Island Eastern Corridor near Hyatt Centric - Westbound 
+2,AID01136,Fast Lane,0.792886181,-0.727183403,-0.784630065,Central & Western,Connaught Road West Flyover near Shun Tak Centre - Westbound 
+2,AID01136,Slow Lane,1.146650364,-0.399421002,-0.264280631,Central & Western,Connaught Road West Flyover near Sheung Wan Fire Station - Westbound 
+2,AID01201,Fast Lane,-0.268406367,-0.399421002,0.256068804,Central & Western,Connaught Road West Flyover near Sun Yat Sen Memorial Park - Westbound 
+2,AID01201,Slow Lane,-0.824321511,1.348645139,2.077291824,Central & Western,Connaught Road West Flyover near Courtyard - Westbound 
+2,AID01202,Fast Lane,-0.470557329,-0.180912734,0.256068804,Eastern,Island Eastern Corridor near EHC - Westbound 
+2,AID01202,Slow Lane,-1.026472473,-0.61792927,-1.3049795,Kwun Tong,Kai Fuk Road near Kwun Tong Government Primary School - Northbound 
+2,AID01203,Fast Lane,-2.845831127,4.844777421,-0.004105914,Kwun Tong,Kai Fuk Road near Ngau Tau Kok Jockey Club Clinic - Northbound 
+2,AID01203,Slow Lane,-2.694217906,3.861490217,-0.004105914,Kwun Tong,Kai Fuk Road near Kowloon Bay Vehicle Examination Centre - Westbound 
+2,AID01204,Fast Lane,-2.845831127,1.567153407,-0.784630065,Kwun Tong,Kai Fuk Road near Kowloon Bay Vehicle Detention and Examination Centre - Westbound 
+2,AID01204,Middle Lane,-2.694217906,0.256103801,-1.3049795,Kowloon City,Chatham Road North near MTR Ho Man Tin Station - Westbound 
+2,AID01206,Fast Lane,-2.138302762,1.894915808,2.077291824,Yau Tsim Mong,Gascoigne Road near Gun Club Hill Barracks - Westbound 
+2,AID01206,Slow Lane,-2.744755646,2.22267821,-0.784630065,Yau Tsim Mong,Gascoigne Road near Diocesan Girls' School - Westbound 
+2,AID01207,Fast Lane,-1.077010213,1.020882738,3.117990693,Yau Tsim Mong,Gascoigne Road Flyover near Prosperous Garden - Northbound 
+2,AID01207,Middle Lane,-3.098519829,1.67640754,-1.044804782,Yau Tsim Mong,Ferry Street near Cherry Street Park - Northbound 
+2,AID01208,Fast Lane,0.085357816,0.146849667,1.55694239,Yau Tsim Mong,West Kowloon Corridor West near Cherry Street Park - Northbound (1) 
+2,AID01208,Slow Lane,0.287508777,-0.61792927,-0.524455348,Yau Tsim Mong,West Kowloon Corridor West near Cherry Street Park - Northbound (2) 
+2,AID01209,Fast Lane,0.236971037,-0.399421002,-0.004105914,Yau Tsim Mong,West Kowloon Corridor West near Fuk Tsun Street - Northbound 
+2,AID01209,Middle Lane,0.034820075,-0.399421002,0.256068804,Sham Shui Po,West Kowloon Corridor near Tung Chau Street Park - Northbound 
+2,AID01209,Slow Lane,-0.521095069,-0.180912734,0.776418238,Sham Shui Po,West Kowloon Corridor near Yen Chow Street West - Northbound 
+2,AID01210,Fast Lane,0.186433296,-0.61792927,-0.524455348,Sham Shui Po,West Kowloon Corridor near West Kowloon Law Courts Building - Northbound 
+3,AID01101,Fast Lane,0.388584258,-0.727183403,-0.784630065,Sham Shui Po,West Kowloon Corridor near Lai Chi Kok MTR Station - Northbound 
+3,AID01101,Middle Lane,0.590735219,-0.399421002,-0.524455348,Sham Shui Po,Kwai Chung Road near Lai Chi Kok Fire Station- Northbound 
+3,AID01101,Slow Lane,-1.380236656,-0.61792927,-1.3049795,Sham Shui Po,Kwai Chung Road near Delia Memorial School (Glee Path) - Northbound 
+3,AID01102,Fast Lane,0.489659739,-0.61792927,-0.264280631,Sham Shui Po,Kwai Chung Road near Kwai Chung Interchange - Northbound 
+3,AID01102,Middle Lane,-0.015717665,-0.508675136,-0.264280631,Kwai Tsing,Kwai Chung Road near Hong Chi Winifred Mary Cheung Morninghope School - Northbound 
+3,AID01102,Slow Lane,0.236971037,-0.61792927,-0.784630065,Kwai Tsing,Kwai Chung Road near Lai King MTR Station - Nouthbound 
+3,AID01103,Fast Lane,0.489659739,-0.290166868,0.516243521,Kwai Tsing,Kwai Chung Road near Lai King Estate - Northbound 
+3,AID01103,Middle Lane,0.236971037,-0.61792927,-0.784630065,Kwai Tsing,Tsuen Wan Road near Kwai Chung Park - Northbound 
+3,AID01104,Fast Lane,0.590735219,-0.727183403,-1.044804782,Tsuen Wan,Tsuen Wan Road near Wing Kin Industrial Building - Nouthbound 
+3,AID01105,Fast Lane,0.338046518,-0.508675136,-0.524455348,Kwai Tsing,Tsuen Wan Road near Wing Kei Road 5-A-Side Soccer Pitch - Northbound 
+3,AID01105,Slow Lane,1.601490027,-0.727183403,-1.044804782,Tsuen Wan,Tsuen Wan Road near Tsuen Wan Driving Test Centre - Northbound 
+3,AID01106,Fast Lane,-0.57163281,0.693120336,1.296767672,Tsuen Wan,Tsuen Wan Road near Tsuen Wan Sports Centre - Northbound 
+3,AID01106,Slow Lane,-1.127547954,0.037595533,-1.044804782,Tsuen Wan,Tsuen Wan Road near Tsuen Wan West MTR Station - Northbound 
+3,AID01107,Fast Lane,-0.318944108,0.256103801,1.817117107,Tsuen Wan,Tsuen Wan Road near Hoi Shing Garden - Northbound 
+3,AID01107,Slow Lane,0.236971037,-0.727183403,-1.3049795,Tsuen Wan,Tsuen Wan Road near Kong Nam industrial building - Westbound 
+3,AID01108,Fast Lane,0.64127296,-0.180912734,-0.004105914,Tsuen Wan,Tuen Mun Road near Belvedere Garden Phase 1 Car Park -Eastbound 
+3,AID01108,Slow Lane,0.843423921,-0.61792927,-0.784630065,Tsuen Wan,Tsuen Wan Road near Hoi Shing Garden - Southbound 
+3,AID01109,Fast Lane,0.338046518,-0.0716586,0.776418238,Tsuen Wan,Tsuen Wan Road near Tsuen Wan West MTR Station - Southbound 
+3,AID01110,Fast Lane,-0.268406367,-0.508675136,-0.524455348,Tsuen Wan,Tsuen Wan Road near Tsuen Wan Sports Centre - Sorthbound 
+3,AID01110,Middle Lane,0.135895556,-0.61792927,-0.524455348,Kwai Tsing,Tsuen Wan Road near Wing Kei Road 5-A-Side Soccer Pitch - Southbound (1) 
+3,AID01110,Slow Lane,0.085357816,-0.727183403,-1.044804782,Kwai Tsing,Tsuen Wan Road near Wing Kei Road 5-A-Side Soccer Pitch - Southbound (2) 
+3,AID01111,Fast Lane,0.439121998,0.037595533,1.296767672,Kwai Tsing,Tsuen Wan Road near Kwai Chung Park - Southbound 
+3,AID01111,Middle Lane,2.309018393,-0.61792927,-1.3049795,Kwai Tsing,Tsuen Wan Road near Kwai Shun Street Playground - Southbound 
+3,AID01111,Middle Lane,0.742348441,-0.508675136,-1.3049795,Kwai Tsing,Kwai Chung Road near Lai King MTR Station - Southbound (1) 
+3,AID01111,Slow Lane,0.236971037,-0.727183403,-0.524455348,Kwai Tsing,Kwai Chung Road near Lai King MTR Station - Southbound (2) 
+3,AID01112,Fast Lane,0.186433296,0.256103801,-0.004105914,Kwai Tsing,Kwai Chung Road near Hong Chi Winifred Mary Cheung Morninghope School - Southbound 
+3,AID01112,Middle Lane,0.236971037,-0.61792927,-0.524455348,Sham Shui Po,Kwai Chung Road near Mei Foo MTR Station - Southbound 
+3,AID01112,Slow Lane,-0.521095069,-0.508675136,-0.004105914,Sham Shui Po,Kwai Chung Road near Delia Memorial School (Glee Path) - Southbound 
+3,AID01113,Fast Lane,0.64127296,-0.727183403,-0.784630065,Sham Shui Po,Kwai Chung Road near Lai Chi Kok Fire Station - Southbound 
+3,AID01113,Middle Lane,0.236971037,-0.727183403,-1.044804782,Sham Shui Po,Lai Chi Kok Road near Novel Industrial Building - Southbound 
+3,AID01114,Fast Lane,0.388584258,-0.61792927,-0.524455348,Sham Shui Po,West Kowloon Corridor near The Pacifica -Southbound 
+3,AID01114,Middle Lane,-0.268406367,-0.399421002,-0.524455348,Sham Shui Po,West Kowloon Corridor near West Kowloon Law Courts Building - Southbound 
+3,AID01115,Fast Lane,0.439121998,-0.399421002,0.516243521,Sham Shui Po,West Kowloon Corridor near Tung Chau Street Park - Southbound 
+3,AID01115,Slow Lane,-0.521095069,-0.508675136,-0.524455348,Yau Tsim Mong,West Kowloon Corridor near Sycamore Playground -Southbound 
+3,AID01116,Fast Lane,0.135895556,-0.399421002,0.256068804,Yau Tsim Mong,West Kowloon Corridor near Fuk Keung Indistrial Building - Southbound 
+3,AID01116,Slow Lane,0.6918107,-0.508675136,-0.524455348,Yau Tsim Mong,West Kowloon Corridor near Cherry Street Park - Southbound (1) 
+3,AID01117,Fast Lane,0.893961662,-0.399421002,-0.264280631,Yau Tsim Mong,West Kowloon Corridor near Cherry Street Park - Southbound (2) 
+3,AID01117,Middle Lane,0.893961662,-0.508675136,-0.524455348,Yau Tsim Mong,West Kowloon Corridor near Prosperous Garden - Southbound 
+3,AID01118,Fast Lane,0.287508777,-0.508675136,-0.524455348,Yau Tsim Mong,Gascoigne Road near Methodist College - Eastbound 
+3,AID01118,Middle Lane,0.135895556,0.037595533,0.256068804,Yau Tsim Mong,Gascoigne Road near Diocesan Girls' School - Eastbound  
+3,AID01118,Slow Lane,-1.734000838,-0.727183403,-1.3049795,Yau Tsim Mong,Gascoigne Road near Gun Club Hill Barracks - Eastbound 
+3,AID01119,Fast Lane,0.135895556,-0.727183403,-1.044804782,Kowloon City,Chatham Road North near MTR Ho Man Tin Station - Eastbound 
+3,AID01119,Middle Lane,-0.67270829,-0.0716586,-0.524455348,Kwun Tong,Kai Fuk Road near Billion Centre - Eastbound 
+3,AID01119,Slow Lane,-0.62217055,-0.399421002,-0.784630065,Kwun Tong,Kai Fuk Road near Kowloon Bay Vehicle Detention and Examination Centre - Eastbound 
+3,AID01120,Fast Lane,1.146650364,-0.61792927,-0.524455348,Kwun Tong,Kai Fuk Road near Kowloon Bay Vehicle Examination Centre - Eastbound 
+3,AID01120,Middle Lane,0.64127296,-0.180912734,-0.264280631,Kwun Tong,Kai Fuk Road near Kwun Tong Road Sitting-out Area - Eastbound 
+3,AID01121,Fast Lane,0.085357816,-0.0716586,1.296767672,Sai Kung,Wan Po Road near Pung Loi Road - Westbound 
+3,AID01121,Slow Lane,0.287508777,-0.508675136,-0.264280631,Sai Kung,Wan Po Road near Hong Kong Velodrome - Westbound 
+3,AID01122,Fast Lane,0.64127296,-0.508675136,0.256068804,Sai Kung,Tseung Kwan O Tunnel Road near Telephone Exchange - Westbound 
+3,AID01123,Fast Lane,-0.066255406,-0.508675136,0.256068804,Sai Kung,Tseung Kwan O Tunnel Road near Tseung Kwan O Tunnel Portal - Westbound 
+3,AID01123,Slow Lane,-0.925396992,-0.399421002,-0.004105914,Kwun Tong,Tseung Kwan O Road near Lin Tak Road - Westbound 
+3,AID01124,Fast Lane,1.247725845,-0.727183403,-0.784630065,Kwun Tong,Tseung Kwan O Road near Junk Bay Road Substation - Westbound 
+3,AID01124,Slow Lane,0.792886181,-0.61792927,-0.784630065,Kwun Tong,Tseung Kwan O Road near Yau Tong Telephone Exchange - Westbound 
+3,AID01125,Fast Lane,0.489659739,-0.508675136,-0.004105914,Kwun Tong,Kwun Tong Road near Tsui Ping Road - Westbound 
+3,AID01125,Slow Lane,0.338046518,0.037595533,-0.264280631,Kwun Tong,Kwun Tong Road near The Grande Building - Westbound 
+3,AID01126,Fast Lane,0.893961662,-0.290166868,0.256068804,Kwun Tong,Kwun Tong Road near Lai Yip Street - Westbound 
+3,AID01126,Slow Lane,0.135895556,0.146849667,-0.004105914,Kwun Tong,Kwun Tong Road near Yan Wing Mansion - Westbound 
+3,AID01127,Fast Lane,0.792886181,-0.399421002,0.256068804,Kwun Tong,Kwun Tong Road near Fuk To Street - Westbound 
+3,AID01127,Slow Lane,0.995037143,-0.290166868,-0.264280631,Kwun Tong,Kwun Tong Road near Kowloon Bay St. John the Baptist Catholic Primary School - Westbound 
+3,AID01128,Fast Lane,1.197188104,-0.399421002,0.516243521,Kwun Tong,Kwun Tong Road near Choi Shek Lane - Westbound 
+3,AID01128,Slow Lane,1.096112623,-0.399421002,-0.524455348,Kwun Tong,Lung Cheung Road near Ping Shek Estate - Westbound 
+3,AID01129,Fast Lane,0.792886181,-0.399421002,0.256068804,Wong Tai Sin,Lung Cheung Road near Kam Hon House Choi Hung Estate Substation - Westbound 
+3,AID01129,Slow Lane,0.085357816,0.583866202,0.776418238,Wong Tai Sin,Lung Cheung Road near Diamond Hill MTR Station 
+3,AID01131,Fast Lane,1.652027768,-0.727183403,-1.044804782,Wong Tai Sin,Lung Cheung Road near Po Kong Village Road - Westbound 
+3,AID01131,Slow Lane,0.792886181,-0.61792927,-1.044804782,Wong Tai Sin,Lung Cheung Road near Lung On House Lower Wong Tai Sin (II) Estate - Westbound 
+3,AID01132,Fast Lane,1.803640989,-0.727183403,-1.044804782,Wong Tai Sin,Lung Cheung Road near Tin Ma Court - Westbound 
+3,AID01132,Slow Lane,0.742348441,-0.61792927,-0.524455348,Kowloon City,Lung Cheung Road near RTHK - Westbound 
+3,AID01133,Fast Lane,2.106867431,-0.508675136,-0.004105914,Kowloon City,Lung Cheung Road near Lung Cheung Road Park - Westbound 
+3,AID01133,Slow Lane,1.399339066,-0.61792927,-0.784630065,Kowloon City,Lung Cheung Road near Elizabethan Court - Westbound 
+3,AID01134,Fast Lane,0.944499402,-0.290166868,0.516243521,Sham Shui Po,Lung Cheung Road Lookout - Westbound 
+3,AID01134,Slow Lane,0.489659739,-0.290166868,-0.004105914,Sham Shui Po,Lung Cheung Road Beacon Heights - Westbound (1) 
+3,AID01135,Fast Lane,0.995037143,-0.61792927,-0.784630065,Sham Shui Po,Lung Cheung Road Beacon Heights - Westbound (2) 
+3,AID01135,Slow Lane,1.348801325,-0.61792927,-0.524455348,Sham Shui Po,Lung Cheung Road Tai Woh Ping - Westbound 
+3,AID01201,Fast Lane,-0.167330886,-0.290166868,1.036592955,Sham Shui Po,Lung Cheung Road near Ching Cheung Road - Westbound 
+3,AID01201,Slow Lane,-0.723246031,0.911628604,2.077291824,Sham Shui Po,Lung Cheung Road near Monte Carlton - Westbound 
+3,AID01202,Fast Lane,-0.369481848,-0.290166868,0.256068804,Sham Shui Po,Ching Cheung Road near Caritas Medical Centre - Westbound 
+3,AID01202,Slow Lane,-0.67270829,-0.290166868,-0.524455348,Sham Shui Po,Ching Cheung Road near Dragon lndustrial Building - Westbound 
+3,AID01203,Fast Lane,-0.318944108,-0.399421002,-0.264280631,Sham Shui Po,Ching Cheung Road near CLP Substation - Westbound 
+3,AID01203,Slow Lane,-0.62217055,-0.290166868,-0.524455348,Sham Shui Po,Ching Cheung Road near Lai Chi Kok Park Sports Centre - Westbound 
+3,AID01204,Fast Lane,-1.380236656,-0.290166868,-0.264280631,Sham Shui Po,Ching Cheung Road near Ching Lai Court - Westbound 
+3,AID01204,Middle Lane,-1.026472473,-0.508675136,-0.524455348,Sham Shui Po,Ching Cheung Road near Ching Lai Court - Eastbound 
+3,AID01204,Slow Lane,-1.380236656,-0.399421002,-0.784630065,Sham Shui Po,Ching Cheung Road near CLP Substation - Eastbound 
+3,AID01205,Fast Lane,-0.066255406,-0.727183403,-1.044804782,Sham Shui Po,Ching Cheung Road near International School - Eastbound 
+3,AID01206,Fast Lane,-1.127547954,1.348645139,2.857815976,Sham Shui Po,Ching Cheung Road near Dragon lndustrial Building - Eastbound 
+3,AID01206,Slow Lane,-0.874859252,0.583866202,1.296767672,Sham Shui Po,Ching Cheung Road near Caritas Medical Centre - Eastbound 
+3,AID01207,Fast Lane,-0.167330886,-0.508675136,-0.524455348,Sham Shui Po,Lung Cheung Road near Monte Carlton - Eastbound 
+3,AID01207,Middle Lane ,-0.470557329,-0.508675136,-0.784630065,Sham Shui Po,Lung Cheung Road near Tai Woh Ping - Eastbound 
+3,AID01207,Middle Lane ,-0.217868627,-0.290166868,-0.524455348,Sham Shui Po,Lung Cheung Road near Block 15 Beacon Heights Phase 2 - Eastbound 
+3,AID01207,Slow Lane,-0.723246031,-0.508675136,-1.044804782,Sham Shui Po,Lung Cheung Road Beacon Heights - Eastbound (2) 
+3,AID01208,Fast Lane,0.186433296,-0.399421002,-0.004105914,Kowloon City,Lung Cheung Road Lookout - Eastbound 
+3,AID01208,Slow Lane,-0.167330886,-0.508675136,-0.264280631,Kowloon City,Lung Cheung Road near Elizabethan Court - Eastbound 
+3,AID01209,Fast Lane,0.388584258,0.037595533,1.817117107,Wong Tai Sin,Lung Cheung Road near Lung Cheung Road Park - Eastbound 
+3,AID01209,Middle Lane,-0.318944108,-0.180912734,-0.264280631,Wong Tai Sin,Lung Cheung Road near Meridain Hill - Eastbound 
+3,AID01209,Slow Lane,-0.217868627,-0.180912734,0.256068804,Wong Tai Sin,Lung Cheung Road near Temple Mall North - Eastbound 
+3,AID01210,Fast Lane,0.085357816,-0.508675136,-0.264280631,Wong Tai Sin,Lung Cheung Road near Tropicana Gardens - Eastbound 
+4,TDS10001,Fast Lane,1.096112623,-0.61792927,-0.784630065,Wong Tai Sin,Lung Cheung Road near Lung Poon Court Commercial Centre - Eastbound 
+4,TDS10001,Middle Lane,0.6918107,-0.180912734,-0.004105914,Wong Tai Sin,Lung Cheung Road near Nan Lian Garden - Eastbound 
+4,TDS10001,Slow Lane,-0.116793146,-0.727183403,-1.3049795,Wong Tai Sin,Lung Cheung Road near Ngau Chi Wan Village Playground - Eastbound 
+4,TDS10002,Fast Lane,0.186433296,-0.727183403,-1.3049795,Kwun Tong,Kwun Tong Road near Choi Shek Lane - Eastbound 
+4,TDS10003,Fast Lane,0.287508777,-0.399421002,-0.524455348,Kwun Tong,Kwun Tong Road near Kai Tai Court - Eastbound 
+4,TDS10003,Slow Lane,1.550952287,-0.399421002,-0.784630065,Kwun Tong,Kwun Tong Road near Lower Ngau Tau Kok Estate - Eastbound 
+4,TDS10004,Fast Lane,1.298263585,-0.399421002,-0.524455348,Kwun Tong,Kwun Tong Road near Sheung Yee Road - Eastbound 
+4,TDS10004,Middle Lane,0.540197479,0.146849667,-0.004105914,Kwun Tong,Kwun Tong Road near Foo Yue Building - Eastbound 
+4,TDS10005,Slow Lane,1.197188104,-0.61792927,-1.3049795,Kwun Tong,Kwun Tong Road near Kwun Tong Road Rest Garden - Eastbound 
+4,TDS10006,Fast Lane,0.439121998,-0.61792927,-1.044804782,Kwun Tong,Kwun Tong Road near Hong Ning Road - Eastbound 
+4,TDS10006,Slow Lane,-0.318944108,-0.508675136,-1.3049795,Kwun Tong,Kwun Tong Road near Hong Kong Student Aid Society - Eastbound 
+4,TDS10007,Fast Lane,0.489659739,-0.290166868,-0.264280631,Kwun Tong,Tseung Kwan O Road near Kwun Tong Swimming Pool - Eastbound 
+4,TDS10007,Slow Lane,0.287508777,0.365357935,0.256068804,Kwun Tong,Tseung Kwan O Road near Tsui Ping (South) Estate - Eastbound 
+4,TDS10010,Fast Lane,0.64127296,0.474612069,0.776418238,Sai Kung,Tseung Kwan O Tunnel Road near Tseung Kwan O Tunnel Portal - Eastbound 
+4,TDS10010,Slow Lane,0.388584258,0.256103801,-0.264280631,Sai Kung,Tseung Kwan O Tunnel Road near Po Hong Park - Eastbound 
+4,TDS10011,Fast Lane,0.742348441,0.037595533,-0.264280631,Sai Kung,Wan Po Road near Tseung Kwan O Tunnel Road - Eastbound 
+4,TDS10011,Middle Lane,-0.116793146,-0.399421002,-1.044804782,Sai Kung,Wan Po Road near Chiu Shun Road - Eastbound 
+4,TDS10011,Slow Lane,-1.9361518,0.80237447,-0.004105914,Tsuen Wan,North Lantau Highway near Yan O Wan - Westbound (1) 
+4,TDS10012,Fast Lane,-0.773783771,-0.399421002,-0.264280631,Tsuen Wan,North Lantau Highway near Yan O Wan - Westbound (2) 
+4,TDS10012,Middle Lane,0.034820075,-0.290166868,-0.784630065,Tsuen Wan,North Lantau Highway near Sunny Bay Beach - Westbound 
+4,TDS10012,Slow Lane,0.135895556,-0.290166868,-0.784630065,Tsuen Wan,North Lantau Highway near Sham Shui Kok Substation - Westbound (1) 
+4,TDS10013,Fast Lane,1.348801325,0.037595533,0.256068804,Tsuen Wan,North Lantau Highway near Sham Shui Kok Substation - Westbound (2) 
+4,TDS10013,Middle Lane,1.601490027,0.256103801,-0.004105914,Tsuen Wan,North Lantau Highway near Sham Shui Kok Substation - Westbound (3) 
+4,TDS20001,Fast Lane,-0.369481848,-0.727183403,-1.3049795,Tsuen Wan,North Lantau Highway near Tung Yip Hang - Westbound 
+4,TDS20002,Fast Lane,1.500414546,-0.399421002,-0.524455348,Tsuen Wan,North Lantau Highway near HK Police Vehicle Pound - Westbound 
+4,TDS20002,Slow Lane,2.00579195,-0.180912734,-0.784630065,Islands,North Lantau Highway near Siu Ho Wan Sewage Treatment Works - Westbound 
+4,TDS20003,Fast Lane,-0.57163281,-0.0716586,-0.524455348,Islands,North Lantau Highway near Siu Ho Wan Gov. Vehicle Centre - Westbound 
+4,TDS20003,Middle Lane,1.247725845,-0.61792927,-1.044804782,Islands,North Lantau Highway near MTR Siu Ho Wan Depot - Westbound (2) 
+4,TDS20003,Middle Lane,-0.521095069,-0.61792927,-1.044804782,Islands,North Lantau Highway near Tai Ho Wan - Westbound (1) 
+4,TDS20003,Slow Lane,0.338046518,-0.61792927,-1.044804782,Islands,North Lantau Highway near Tai Ho Wan - Westbound (2) 
+4,TDS20004,Fast Lane,-0.975934733,-0.61792927,-1.044804782,Islands,North Lantau Highway near Tai Ho Wan - Westbound (3) 
+4,TDS20004,Middle Lane,2.511169354,-0.290166868,-0.524455348,Islands,North Lantau Highway near Tai Ho Wan - Westbound (4) 
+4,TDS20004,Slow Lane,0.439121998,-0.180912734,-0.524455348,Islands,North Lantau Highway near Tai Ho Wan - Westbound (5) 
+4,TDS20005,Fast Lane,-0.318944108,-0.399421002,-0.524455348,Islands,North Lantau Highway near Ying Tung Estate - Westbound (1) 
+4,TDS20005,Middle Lane,0.742348441,0.146849667,-0.004105914,Islands,North Lantau Highway near Ying Tung Estate - Westbound (2) 
+4,TDS20005,Slow Lane,1.348801325,-0.399421002,-0.524455348,Islands,North Lantau Highway near Caribbean Coast Phase 1 - Westbound 
+4,TDS20006,Fast Lane,0.64127296,-0.508675136,-1.044804782,Islands,North Lantau Highway near Caribbean Coast Phase 3 - Westbound 
+4,TDS20006,Middle Lane,0.944499402,-0.0716586,-0.524455348,Islands,North Lantau Highway near Tung Chung (N) - Westbound (1) 
+4,TDS20006,Slow Lane,0.338046518,0.037595533,-0.264280631,Islands,North Lantau Highway near Tung Chung (N) - Westbound (2) 
+4,TDS20007,Fast Lane,-0.369481848,-0.399421002,-0.524455348,Islands,North Lantau Highway near Tung Chung (N) - Eastbound (1) 
+4,TDS20007,Slow Lane,-0.015717665,-0.399421002,-1.044804782,Islands,North Lantau Highway near Tung Chung (N) - Eastbound (2) 
+4,TDS20008,Fast Lane,1.146650364,-0.727183403,-1.044804782,Islands,North Lantau Highway near Tung Chung (N) - Eastbound (3) 
+4,TDS20009,Fast Lane,1.348801325,0.474612069,-0.264280631,Islands,North Lantau Highway near Caribbean Coast Phase 3 - Eastbound 
+4,TDS20009,Slow Lane,0.439121998,0.583866202,-0.004105914,Islands,North Lantau Highway near Caribbean Coast Phase 1 - Eastbound 
+4,TDS30001,Fast Lane,1.601490027,-0.290166868,-0.264280631,Islands,North Lantau Highway near Ying Tung Estate - Eastbound (1) 
+4,TDS30001,Middle Lane,0.893961662,-0.399421002,-0.524455348,Islands,North Lantau Highway near Ying Tung Estate - Eastbound (2) 
+4,TDS30001,Slow Lane,0.186433296,-0.290166868,-0.784630065,Islands,North Lantau Highway near Tai Ho Wan - Eastbound (1) 
+4,TDS30002,Middle Lane,0.287508777,-0.61792927,-1.044804782,Islands,North Lantau Highway near Tai Ho Wan - Eastbound (2) 
+4,TDS30002,Slow Lane,0.034820075,-0.508675136,-1.3049795,Islands,North Lantau Highway near Tai Ho Wan - Eastbound (3) 
+4,TDS30003,Middle Lane,1.550952287,-0.508675136,-0.784630065,Islands,North Lantau Highway near Tai Ho Wan - Eastbound (4) 
+4,TDS30003,Slow Lane,0.590735219,-0.61792927,-1.3049795,Islands,North Lantau Highway near Tai Ho Wan - Eastbound (5) 
+4,TDS30004,Middle Lane,3.067084499,-0.399421002,-1.044804782,Islands,North Lantau Highway near MTR Siu Ho Wan Depot - Eastbound (1) 
+4,TDS30004,Slow Lane,-0.521095069,-0.180912734,-1.3049795,Islands,North Lantau Highway near MTR Siu Ho Wan Depot - Eastbound (2) 
+4,TDS30005,Fast Lane,1.95525421,-0.727183403,-1.3049795,Islands,North Lantau Highway near MTR Siu Ho Wan Depot - Eastbound (3) 
+4,TDS30006,Fast Lane,2.763858056,-0.727183403,-1.044804782,Islands,North Lantau Highway near Siu Ho Wan Sewage Treatment Works - Eastbound 
+4,TDS30006,Middle Lane,0.540197479,-0.508675136,-0.784630065,Tsuen Wan,North Lantau Highway near Refuse Transfer Station - Eastbound 
+4,TDS30006,Slow Lane,1.298263585,-0.399421002,-1.044804782,Tsuen Wan,North Lantau Highway near Tung Yip Hang - Eastbound (1) 
+4,TDS30008,Fast Lane,2.207942912,-0.727183403,-1.3049795,Tsuen Wan,North Lantau Highway near Tung Yip Hang - Eastbound (2) 
+4,TDS30008,Slow Lane,0.388584258,-0.399421002,-1.044804782,Tsuen Wan,North Lantau Highway near Tung Yip Hang - Eastbound (3) 
+4,TDS90001,Fast Lane,1.298263585,-0.61792927,-0.784630065,Tsuen Wan,North Lantau Highway near Ta Pang Po - Eastbound 
+4,TDS90001,Middle Lane,0.287508777,-0.0716586,-0.004105914,Tsuen Wan,North Lantau Highway near Yan O Wan - Eastbound (1) 
+4,TDS90002,Fast Lane,0.843423921,-0.290166868,-0.264280631,Tsuen Wan,North Lantau Highway near Yan O Wan - Eastbound (2) 
+4,TDS90002,Middle Lane,1.550952287,-0.180912734,-1.044804782,Tsuen Wan,Tuen Mun Road near Tsuen Wan Road - Eastbound 
+4,TDS90002,Middle Lane,0.540197479,0.037595533,-0.004105914,Tsuen Wan,Tuen Mun Road near Chai Wan Kok Cooked Food Market - Eastbound 
+4,TDS90002,Slow Lane,-0.773783771,-0.399421002,-1.3049795,Tsuen Wan,Cheung Pei Shan Road near The Mills - Eastbound 
+4,TDS90003,Fast Lane,-0.521095069,-0.727183403,-1.044804782,Tsuen Wan,Cheung Pei Shan Road near Discovery Park - Eastbound 
+4,TDS90003,Middle Lane,0.64127296,0.365357935,0.776418238,Tsuen Wan,Cheung Pei Shan Road near Tsuen Kam Interchange - Eastbound 
+4,TDS90003,Slow Lane,-0.015717665,-0.61792927,-1.044804782,Tsuen Wan,Cheung Pei Shan Road near Shek Wai Kok Estate - Eastbound 
+4,TDS90004,Fast Lane,1.550952287,-0.508675136,-0.784630065,Tsuen Wan,Cheung Pei Shan Road near Lui Ming Choi Lutheran College - Eastbound 
+4,TDS90004,Middle Lane,0.489659739,-0.61792927,-1.044804782,Tsuen Wan,Cheung Pei Shan Road near Wo Yi Hop Road Interchange - Eastbound 
+4,TDS90004,Middle Lane,0.64127296,-0.290166868,-0.524455348,Tsuen Wan,Cheung Pei Shan Road near Ho Fung College - Eastbound 
+4,TDS90004,Slow Lane,-1.88561406,-0.290166868,-1.3049795,Tsuen Wan,Shing Mun Tunnel Road near Entrance from Shatin - Eastbound 
+4,TDS90005,Fast Lane,2.359556133,-0.727183403,-1.3049795,Sha Tin,Shing Mun Tunnel Road near Puguangming Temple - Eastbound 
+4,TDS90005,Middle Lane,1.096112623,-0.290166868,-0.524455348,Sha Tin,Shing Mun Tunnel Road near Mei Tin Road - Eastbound 
+4,TDS90005,Slow Lane,0.6918107,-0.508675136,-1.044804782,Sha Tin,Shing Mun Tunnel Road near Chung Ling Road - Eastbound 
+4,TDS90010,Fast Lane,0.995037143,-0.399421002,-0.524455348,Sha Tin,Shing Mun Tunnel Road near Hong Kong Heritage Museum - Eastbound 
+4,TDS90011,Fast Lane,0.843423921,-0.180912734,-0.264280631,Sha Tin,Tai Po Road near Fo Tan Railway House - Northbound 
+4,TDS90011,Slow Lane,1.854178729,-0.61792927,-0.784630065,Sha Tin,Tai Po Road near Sha Tin Racecourse - Northbound (1) 
+4,TDS90012,Fast Lane,0.338046518,-0.727183403,-0.784630065,Sha Tin,Tai Po Road near Sha Tin Racecourse - Northbound (2) 
+4,TDS90012,Slow Lane,0.64127296,-0.399421002,-0.264280631,Sha Tin,Tai Po Road near Sha Tin Racecourse - Northbound (3) 
+4,TDS90013,Fast Lane,0.792886181,-0.727183403,-1.3049795,Sha Tin,Tolo Highway near Sha Tin Sewage Treatment Works - Northbound 
+4,TDS90013,Middle Lane,1.500414546,-0.180912734,-0.524455348,Sha Tin,Tolo Highway near Ma Liu Shui Weigh Station - Northbound 
+4,TDS90013,Slow Lane,-0.369481848,-0.508675136,-1.044804782,North,Fanling Highway near Golf Parkview - Eastbound 
+4,TDS90014,Fast Lane,2.511169354,-0.727183403,-1.3049795,North,Fanling Highway near Eden Manor - Eastbound 
+4,TDS90014,Middle Lane,0.590735219,-0.399421002,-0.524455348,North,Fanling Highway near Choi Yuen Estate Choi Lai House - Eastbound 
+4,TDS90014,Slow Lane,-0.369481848,-0.508675136,-1.3049795,North,Fanling Highway near So Kwun Po Road - Eastbound 
+4,TDS90015,Fast Lane,0.439121998,-0.508675136,-1.044804782,North,Fanling Highway near Fanling Recreation Ground - Eastbound 
+4,TDS90015,Middle Lane,2.814395797,-0.399421002,-0.784630065,North,Fanling Highway near Fanling Station - Eastbound 
+4,TDS90016,Fast Lane,1.652027768,-0.727183403,-1.3049795,North,Fanling Highway near Avon Park - Eastbound 
+4,TDS90016,Middle Lane,0.034820075,-0.61792927,-1.044804782,Tsuen Wan,Cheung Pei Shan Road near Ho Fung College - Westbound 
+4,TDS90016,Middle Lane,0.6918107,-0.508675136,-0.784630065,Tsuen Wan,Cheung Pei Shan Road near Wo Yi Hop Road Interchange - Westbound 
+4,TDS90016,Slow Lane,-0.67270829,-0.180912734,-1.044804782,Tsuen Wan,Cheung Pei Shan Road near Lui Ming Choi Lutheran College - Westbound 
+4,TDS90017,Middle Lane,1.247725845,-0.290166868,-0.264280631,Tsuen Wan,Cheung Pei Shan Road near Shek Wai Kok Estate - Westbound 
+4,TDS90017,Slow Lane,1.399339066,-0.727183403,-1.044804782,Tsuen Wan,Cheung Pei Shan Road near Tsuen Kam Interchange - Westbound 
+5,TDS10001,Fast Lane,-2.593142425,6.155827027,-0.004105914,Tsuen Wan,Cheung Pei Shan Road near Discovery Park - Westbound 
+5,TDS10001,Middle Lane,-2.340453723,5.718810491,1.036592955,Tsuen Wan,Cheung Pei Shan Road near The Mills - Westbound 
+5,TDS10001,Slow Lane,-1.481312137,2.113424076,1.817117107,Tsuen Wan,Tuen Mun Road near Chai Wan Kok Cooked Food Market - Westbound 
+5,TDS10003,Fast Lane,0.843423921,-0.290166868,-1.3049795,North,Fanling Highway near Dawning Views - Westbound 
+5,TDS10003,Slow Lane,0.590735219,0.365357935,0.776418238,North,Fanling Highway near Fanling Centre - Westbound 
+5,TDS10004,Fast Lane,0.6918107,1.130136871,1.296767672,North,Fanling Highway near Fanling Station - Westbound 
+5,TDS10004,Middle Lane,0.489659739,1.457899273,0.516243521,North,Fanling Highway near Exit to So Kwun Po Road - Westbound 
+5,TDS10004,Slow Lane,0.843423921,-0.180912734,-0.524455348,North,Fanling Highway near Entrance from So Kwun Po Road - Westbound 
+5,TDS10005,Fast Lane,0.944499402,-0.399421002,-0.524455348,North,Fanling Highway near Choi Yuen Estate Choi Lai House - Westbound 
+5,TDS10005,Slow Lane,0.489659739,-0.290166868,-0.784630065,North,Fanling Highway near Eden Manor - Westbound 
+5,TDS10006,Fast Lane,0.085357816,-0.0716586,0.256068804,North,Fanling Highway near Golf Parkview - Westbound 
+5,TDS10007,Fast Lane,-0.874859252,1.67640754,2.337466541,Tuen Mun,Kong Sham Western Highway near Fuk Hang Tsuen - Northbound (1) 
+5,TDS10007,Slow Lane,-0.67270829,1.567153407,0.516243521,Tuen Mun,Kong Sham Western Highway near Fuk Hang Tsuen - Northbound (2) 
+5,TDS10010,Fast Lane,-1.430774396,4.407760886,1.817117107,Tuen Mun,Kong Sham Western Highway near Fuk Hang Tsuen - Northbound (3) 
+5,TDS10010,Slow Lane,-1.481312137,4.189252618,1.296767672,Tuen Mun,Kong Sham Western Highway near The Sherwood - Northbound 
+5,TDS10011,Fast Lane,-2.643680166,7.029860097,-0.264280631,Tuen Mun,Kong Sham Western Highway Tsing Yick Road - Northbound 
+5,TDS10011,Middle Lane,-2.138302762,5.063285689,0.516243521,Tuen Mun,Kong Sham Western Highway near Mai Yuan Wei Lu - Northbound 
+5,TDS10011,Slow Lane,-1.784538579,0.146849667,-0.784630065,Tuen Mun,Kong Sham Western Highway near Yick Yuen Road - Northbound (1) 
+5,TDS10012,Fast Lane,-2.037227281,0.911628604,0.256068804,Yuen Long,Kong Sham Western Highway near Yick Yuen Road - Northbound (2) 
+5,TDS10012,Middle Lane,-1.481312137,0.583866202,0.256068804,Yuen Long,Kong Sham Western Highway near San Sang San Tsuen - Northbound 
+5,TDS10013,Fast Lane,-1.835076319,5.281793956,-0.004105914,Yuen Long,Kong Sham Western Highway near Ha Tsuen Road - Northbound 
+5,TDS10013,Middle Lane,-0.874859252,3.09671128,0.776418238,Yuen Long,Kong Sham Western Highway near San Wai Sewage Treatment Plant - Northbound 
+5,TDS10013,Slow Lane,-0.116793146,0.911628604,-0.524455348,Yuen Long,Kong Sham Western Highway near Helipad - Northbound 
+5,TDS20001,Fast Lane,-2.845831127,7.357622499,-0.784630065,Yuen Long,Kong Sham Western Highway near Ngau Hom Shek E&M Plant Room - Northbound 
+5,TDS20001,Slow Lane,-2.845831127,7.248368365,-0.524455348,Yuen Long,Shenzhen Bay Bridge - Northbound (1) 
+5,TDS20002,Fast Lane,-0.925396992,0.693120336,0.516243521,Yuen Long,Shenzhen Bay Bridge - Northbound (2) 
+5,TDS20002,Slow Lane,-1.329698915,0.256103801,-0.264280631,Yuen Long,Shenzhen Bay Bridge - Northbound (3) 
+5,TDS20003,Fast Lane,-0.066255406,0.693120336,0.776418238,Yuen Long,Shenzhen Bay Bridge - Northbound (4) 
+5,TDS20003,Middle Lane,-0.67270829,2.441186477,1.036592955,Yuen Long,Shenzhen Bay Bridge - Northbound (5) 
+5,TDS20003,Middle Lane,-0.521095069,0.693120336,-0.524455348,Yuen Long,Shenzhen Bay Bridge - Northbound (6) 
+5,TDS20003,Slow Lane,-0.369481848,2.331932343,1.817117107,Yuen Long,Shenzhen Bay Bridge - Northbound (7) 
+5,TDS20004,Fast Lane,-0.066255406,1.130136871,1.036592955,Yuen Long,Shenzhen Bay Bridge - Southbound (1) 
+5,TDS20004,Middle Lane,0.64127296,1.020882738,0.256068804,Yuen Long,Shenzhen Bay Bridge - Southbound (2) 
+5,TDS20004,Slow Lane,-0.066255406,1.457899273,1.55694239,Yuen Long,Shenzhen Bay Bridge - Southbound (3) 
+5,TDS20005,Fast Lane,0.995037143,0.693120336,-0.004105914,Yuen Long,Shenzhen Bay Bridge - Southbound (4) 
+5,TDS20005,Middle Lane,0.843423921,1.020882738,1.036592955,Yuen Long,Shenzhen Bay Bridge - Southbound (5) 
+5,TDS20005,Slow Lane,0.439121998,1.020882738,1.55694239,Yuen Long,Shenzhen Bay Bridge - Southbound (6) 
+5,TDS20006,Fast Lane,-0.066255406,2.987457146,2.857815976,Yuen Long,Shenzhen Bay Bridge - Southbound (7) 
+5,TDS20006,Middle Lane,-0.723246031,3.970744351,2.597641258,Yuen Long,Kong Sham Western Highway near Ngau Hom Shek E&M Plant Room - Southbound 
+5,TDS20006,Slow Lane,-1.127547954,3.970744351,2.857815976,Yuen Long,Kong Sham Western Highway near Helipad - Southbound 
+5,TDS20007,Fast Lane,-0.470557329,1.894915808,2.857815976,Yuen Long,Kong Sham Western Highway near Ha Tsuen Weigh Station - Southbound 
+5,TDS20007,Slow Lane,-0.470557329,0.474612069,-0.524455348,Yuen Long,Kong Sham Western Highway near San Wai Sewage Treatment Plant - Southbound 
+5,TDS20008,Fast Lane,-0.369481848,1.785661674,2.857815976,Yuen Long,Kong Sham Western Highway near Ha Tsuen Road - Southbound 
+5,TDS20008,Slow Lane,-0.57163281,2.331932343,1.817117107,Yuen Long,Kong Sham Western Highway near San Sang San Tsuen - Southbound 
+5,TDS20009,Fast Lane,-1.734000838,4.735523287,1.55694239,Yuen Long,Kong Sham Western Highway near Yick Yuen Road - Southbound (1) 
+5,TDS20009,Slow Lane,-0.116793146,-0.727183403,-1.3049795,Yuen Long,Kong Sham Western Highway near Yick Yuen Road - Southbound (2) 
+5,TDS30001,Fast Lane,0.439121998,1.67640754,3.37816541,Tuen Mun,Kong Sham Western Highway near Mai Yuan Wei Road - Southbound 
+5,TDS30001,Middle Lane,-0.066255406,1.239391005,-0.264280631,Tuen Mun,Kong Sham Western Highway near Tsing Yick Road - Southbound 
+5,TDS30001,Slow Lane,0.388584258,1.348645139,0.256068804,Tuen Mun,Kong Sham Western Highway near Fuk Hang Tsuen - Southbound 
+5,TDS30002,Fast Lane,0.034820075,1.785661674,3.37816541,Sha Tin,Sha Tin Road near Hong Kong Jockey Club Shatin Staff Quarters - Southbound 
+5,TDS30002,Middle Lane,-0.217868627,2.331932343,0.516243521,Sha Tin,Sha Tin Road near New Territories Fire Command Headquarters - Southbound 
+5,TDS30002,Slow Lane,-0.167330886,2.113424076,0.516243521,Sha Tin,Sha Tin Road near Prince of Wales Hospital - Southbound 
+5,TDS30003,Fast Lane,0.540197479,1.567153407,3.37816541,Sha Tin,Sha Tin Road near Yuen Chau Kok Park - Southbound 
+5,TDS30003,Middle Lane,0.338046518,2.441186477,2.337466541,Sha Tin,Sha Tin Road near Tai Chung Kiu Road - Southbound 
+5,TDS30003,Slow Lane,0.034820075,0.583866202,-0.264280631,Sha Tin,Sha Tin Road near Sha Tin Wai Road - Southbound 
+5,TDS30004,Fast Lane,0.287508777,0.911628604,2.597641258,Sha Tin,Sha Tin Road near Sha Tin Tau - Southbound 
+5,TDS30004,Middle Lane,1.348801325,0.80237447,1.296767672,Sha Tin,Sha Tin Road near Pok Hong Estate - Southbound 
+5,TDS30004,Slow Lane,-0.116793146,0.583866202,-1.044804782,Sha Tin,Sha Tin Road near Shui Chuen O Estate - Southbound 
+5,TDS30005,Fast Lane,0.64127296,0.037595533,0.516243521,Sha Tin,Lion Rock Tunnel Road near Sha Tin Government Primary School - Southbound 
+5,TDS30005,Middle Lane,1.348801325,-0.290166868,-0.784630065,Sha Tin,Lion Rock Tunnel Road near Hung Mui Kuk Road - Southbound 
+5,TDS30005,Middle Lane,0.64127296,0.037595533,0.516243521,Sha Tin,Lion Rock Tunnel Road near World-wide Gardens - Southbound 
+5,TDS30005,Slow Lane,1.449876806,-0.290166868,-0.264280631,Sha Tin,Lion Rock Tunnel Road near Union Hospital - Southbound 
+5,TDS30006,Fast Lane,1.95525421,0.365357935,1.296767672,Sha Tin,Tate's Cairn Highway near Hong Kong School of Motoring - Sha Tin - Southbound 
+5,TDS30006,Middle Lane,0.843423921,0.365357935,0.516243521,Sha Tin,Tate's Cairn Highway near Shek Mun Riverside Garden - Southbound 
+5,TDS30006,Slow Lane,0.439121998,0.583866202,-0.784630065,Sha Tin,Tate's Cairn Highway near Sha Tin Transfer Station - Southbound 
+5,TDS30007,Slow Lane,0.843423921,-0.290166868,-0.784630065,Sha Tin,Tate's Cairn Highway near Shek Mun Interchange - Southbound 
+5,TDS30008,Fast Lane,1.146650364,-0.508675136,-0.524455348,Sha Tin,Tate's Cairn Highway near Sha Tin Hospital - Southbound (2) 
+5,TDS30008,Slow Lane,1.146650364,-0.0716586,-0.264280631,Sha Tin,Tate's Cairn Highway near Sha Tin Hospital - Southbound (1) 
+5,TDS90001,Fast Lane,0.590735219,0.911628604,2.077291824,Sha Tin,Tate's Cairn Highway near Ah Kung Kok Fishermen Village - Southbound 
+5,TDS90001,Middle Lane,0.085357816,0.474612069,-0.264280631,Sha Tin,Tate's Cairn Highway near Sha Tin Sewage Treatment Works - Southbound 
+5,TDS90001,Slow Lane,0.64127296,0.256103801,-0.264280631,Sha Tin,"Tate's Cairn Highway near Hyatt Regency Hong Kong, Sha Tin - Southbound "
+5,TDS90002,Fast Lane,0.236971037,0.80237447,1.55694239,Yuen Long,Tsing Long Highway near Ho Pui - Southbound 
+5,TDS90002,Middle Lane,0.287508777,0.911628604,0.776418238,Yuen Long,Tsing Long Highway near Pat Heung Depot - Southbound 
+5,TDS90002,Middle Lane,-0.167330886,1.020882738,-0.004105914,Yuen Long,Tsing Long Highway near Kam Sheung Road MTR Station - Southbound (1) 
+5,TDS90002,Slow Lane,-0.116793146,-0.290166868,-1.3049795,Yuen Long,Tsing Long Highway near Kam Sheung Road MTR Station - Southbound (2) 
+5,TDS90003,Fast Lane,-2.441529204,3.752236083,1.296767672,Yuen Long,Tsing Long Highway near Kam Sheung Road MTR Station - Southbound (3) 
+5,TDS90003,Middle Lane,-2.492066944,5.718810491,0.776418238,Yuen Long,Tsing Long Highway near Au Tau Treatment Works - Southbound 
+5,TDS90003,Slow Lane,-2.643680166,8.668672104,-0.264280631,Yuen Long,Tsing Long Highway near Yuen Long Highway - Southbound (1) 
+5,TDS90004,Fast Lane,-2.340453723,4.954031555,1.036592955,Yuen Long,Tsing Long Highway near Yuen Long Highway - Southbound (2) 
+5,TDS90004,Middle Lane ,-2.441529204,5.609556358,1.036592955,Yuen Long,Tsing Long Highway near Yuen Long Highway - Southbound (3) 
+5,TDS90004,Middle Lane,-2.492066944,5.609556358,0.776418238,Sha Tin,"Tolo Highway near Hyatt Regency Hong Kong, Sha Tin - Southbound "
+5,TDS90004,Slow Lane,-1.531849877,0.146849667,-1.3049795,Sha Tin,Tolo Highway near The Hong Kong Jockey Club Stables - Southbound 
+5,TDS90005,Fast Lane,-2.896368867,8.122401435,-0.524455348,Sha Tin,Tai Po Road - Sha Tin near Racecourse MTR Station - Southbound 
+5,TDS90005,Middle Lane,-2.492066944,6.702097696,0.516243521,Sha Tin,Tai Po Road Sha Tin near Plaza Ascot - Southbound 
+5,TDS90005,Slow Lane,-1.380236656,3.424473681,-0.264280631,Sha Tin,Tai Po Road - Sha Tin near Hong Kong Jockey Club Shatin Staff Quarters - Southbound 
+5,TDS90010,Fast Lane,0.792886181,0.583866202,0.516243521,Sha Tin,Tai Po Road - Sha Tin near Sha Tin MTR Station - Westbound 
+5,TDS90010,Slow Lane,0.792886181,0.256103801,-0.524455348,Sha Tin,Shing Mun Tunnel Road near Hong Kong Heritage Museum - Westbound 
+5,TDS90011,Fast Lane,1.753103248,-0.508675136,-0.784630065,Sha Tin,Shing Mun Tunnel Road near Mei Lam Estate - Westbound 
+5,TDS90011,Slow Lane,1.399339066,-0.399421002,-0.784630065,Sha Tin,Shing Mun Tunnel Road near May Shing Court - Westbound 
+5,TDS90012,Fast Lane,0.489659739,-0.399421002,-0.264280631,Sha Tin,Shing Mun Tunnel Road near Puguangming Temple - Westbound 
+5,TDS90012,Slow Lane,0.843423921,-0.61792927,-0.784630065,Sha Tin,Shing Mun Tunnel Road near Shun Shin Chee Kit Yin Koon - Westbound 
+5,TDS90013,Fast Lane,1.652027768,-0.399421002,-0.524455348,Tsuen Wan,Tuen Mun Road near Tsuen Wan Road - Westbound 
+5,TDS90013,Middle Lane,0.489659739,-0.180912734,-0.004105914,Tsuen Wan,Tuen Mun Road near Yau Kom Tau Village - Westbound 
+5,TDS90013,Slow Lane,-0.420019588,-0.290166868,-0.784630065,Tsuen Wan,Tuen Mun Road near Yau Kom Tau Water Treatment Works - Westbound 
+5,TDS90014,Fast Lane,-0.521095069,-0.508675136,-0.784630065,Tsuen Wan,Tuen Mun Road near Hanley Villa - Westbound 
+5,TDS90014,Middle Lane,0.388584258,0.146849667,0.256068804,Tsuen Wan,Tuen Mun Road near Ting Kau - Westbound (1) 
+5,TDS90014,Slow Lane,-0.066255406,-0.508675136,-0.524455348,Tsuen Wan,Tuen Mun Road near Ting Kau - Westbound (2) 
+5,TDS90015,Fast Lane,4.178914787,-0.727183403,-1.3049795,Tsuen Wan,Tuen Mun Road near Ting Kau - Westbound (3) 
+5,TDS90015,Middle Lane,0.742348441,0.365357935,1.036592955,Tsuen Wan,Tuen Mun Road near Ting Kau - Westbound (4) 
+5,TDS90015,Slow Lane,0.540197479,-0.180912734,-0.004105914,Tsuen Wan,Tuen Mun Road near Ting Kau - Westbound (5) 
+5,TDS90016,Fast Lane,-0.217868627,-0.399421002,-0.524455348,Tsuen Wan,Tuen Mun Road near Sham Tseng - Westbound (1) 
+5,TDS90016,Middle Lane,-0.066255406,0.365357935,-0.264280631,Tsuen Wan,Tuen Mun Road near Sham Tseng - Westbound (2) 
+5,TDS90016,Middle Lane,-0.268406367,0.80237447,-0.004105914,Tsuen Wan,Tuen Mun Road near Sham Tseng - Westbound (3) 
+5,TDS90017,Fast Lane,1.449876806,-0.0716586,0.256068804,Tsuen Wan,Tuen Mun Road near Sham Tseng - Westbound (4) 
+5,TDS90017,Middle Lane,0.792886181,1.567153407,1.296767672,Tsuen Wan,Tuen Mun Road near Sham Tseng - Westbound (5) 
+5,TDS90017,Slow Lane,1.449876806,0.365357935,-0.784630065,Tsuen Wan,Tuen Mun Road near Sham Tseng - Westbound (6) 
+5,TDS90018,Fast Lane,0.893961662,-0.0716586,-0.004105914,Tsuen Wan,Tuen Mun Road near Hong Kong Garden - Westbound (1) 
+5,TDS90018,Middle Lane,0.64127296,1.67640754,1.55694239,Tsuen Wan,Tuen Mun Road near Hong Kong Garden - Westbound (2) 
+6,TDS10001,Fast Lane,-2.593142425,4.298506752,1.036592955,Tsuen Wan,Tuen Mun Road near Ka Loon Tsuen - Westbound (1) 
+6,TDS10001,Middle Lane,-2.643680166,6.920605963,0.516243521,Tuen Mun,Tuen Mun Road near Ka Loon Tsuen - Westbound (2) 
+6,TDS10001,Slow Lane,-1.228623435,2.987457146,1.036592955,Tuen Mun,Tuen Mun Road near Tai Lam - Westbound 
+6,TDS10002,Fast Lane,0.6918107,-0.180912734,-0.264280631,Tuen Mun,Tuen Mun Road near Tuen Mun Road Bus-Bus Interchange - Westbound (1) 
+6,TDS10002,Slow Lane,-0.268406367,0.256103801,-0.264280631,Tuen Mun,Tuen Mun Road near Tuen Mun Road Bus-Bus Interchange - Westbound (2) 
+6,TDS10003,Fast Lane,0.085357816,-0.61792927,-1.044804782,Tuen Mun,Tuen Mun Road near Correctional Services Department Married Staff Quarters - Westbound 
+6,TDS10003,Slow Lane,0.135895556,0.037595533,0.256068804,Tuen Mun,Tuen Mun Road near Tsing Lam Road - Westbound 
+6,TDS10004,Fast Lane,0.792886181,0.146849667,0.256068804,Tuen Mun,Tuen Mun Road near Kwun Fat Street - Westbound 
+6,TDS10004,Middle Lane,0.236971037,0.146849667,-0.004105914,Tuen Mun,Tuen Mun Road near Siu Sau Tsuen - Westbound 
+6,TDS10005,Fast Lane,0.236971037,-0.180912734,0.256068804,Tuen Mun,Tuen Mun Road near So Kwun Wat Road - Westbound 
+6,TDS10005,Slow Lane,1.197188104,-0.399421002,-1.044804782,Tuen Mun,Tuen Mun Road near Harrow International School Hong Kong - Westbound (1) 
+6,TDS10006,Fast Lane,0.034820075,0.365357935,0.776418238,Tuen Mun,Tuen Mun Road near Harrow International School Hong Kong- Westbound (2) 
+6,TDS10006,Slow Lane,0.135895556,-0.399421002,-0.784630065,Tuen Mun,Tuen Mun Road near Castle Peak Bay Immigration Centre - Westbound 
+6,TDS10007,Fast Lane,-0.521095069,1.239391005,1.817117107,Tuen Mun,Tuen Mun Road near Castle Peak Beach - Westbound 
+6,TDS10007,Slow Lane,-0.925396992,1.894915808,1.296767672,Tuen Mun,Tuen Mun Road near San Hui Market - Northbound 
+6,TDS10010,Fast Lane,-0.723246031,1.239391005,0.516243521,Tuen Mun,Tuen Mun Road near San Hui Playground - Northbound 
+6,TDS10010,Slow Lane,-0.57163281,3.205965414,2.337466541,Tuen Mun,Tuen Mun Road near Fung Tei Light Rail Stop - Northbound 
+6,TDS10011,Fast Lane,-1.835076319,3.861490217,0.256068804,Tuen Mun,Tuen Mun Road near Siu Hong MTR Station - Northbound (1) 
+6,TDS10011,Middle Lane,-0.67270829,1.67640754,1.55694239,Tuen Mun,Tuen Mun Road near Siu Hong MTR Station - Northbound (2) 
+6,TDS10011,Slow Lane,-2.138302762,0.256103801,-0.784630065,Tuen Mun,Yuen Long Highway near Kong Sham Western Highway - Eastbound (1) 
+6,TDS10012,Fast Lane,-1.88561406,2.113424076,1.55694239,Tuen Mun,Yuen Long Highway near Kong Sham Western Highway - Eastbound (2) 
+6,TDS10012,Middle Lane,-1.734000838,3.205965414,1.55694239,Tuen Mun,Yuen Long Highway near Kong Sham Western Highway - Eastbound (3) 
+6,TDS10012,Slow Lane,0.236971037,-0.399421002,-0.524455348,Yuen Long,Yuen Long Highway near Tan Kwai Tsuen - Eastbound 
+6,TDS10013,Fast Lane,-1.683463098,5.500302224,1.296767672,Yuen Long,Yuen Long Highway near Shui Fu Road - Eastbound 
+6,TDS10013,Middle Lane,-1.481312137,3.533727815,1.55694239,Yuen Long,Yuen Long Highway near Hung Tin Road - Eastbound (1) 
+6,TDS10013,Slow Lane,0.236971037,-0.399421002,-1.3049795,Yuen Long,Yuen Long Highway near Hung Tin Road - Eastbound (2) 
+6,TDS20001,Fast Lane,-0.62217055,-0.508675136,-1.044804782,Yuen Long,Yuen Long Highway near Tong Yan San Tsuen Road - Eastbound 
+6,TDS20001,Slow Lane,-0.420019588,0.365357935,-0.004105914,Yuen Long,Yuen Long Highway near Tong Yan San Tsuen Interchange - Eastbound 
+6,TDS20002,Fast Lane,-0.015717665,0.037595533,0.516243521,Yuen Long,Yuen Long Highway near Lam Hau Tsuen - Eastbound 
+6,TDS20002,Slow Lane,-0.015717665,0.474612069,-0.264280631,Yuen Long,Yuen Long Highway near Kung Um Road - Eastbound 
+6,TDS20003,Fast Lane,0.085357816,1.130136871,1.817117107,Yuen Long,Yuen Long Highway near Sham Chung Tsuen - Eastbound 
+6,TDS20003,Middle Lane,0.388584258,1.348645139,1.296767672,Yuen Long,Yuen Long Highway near Shap Pat Heung Interchange - Eastbound (1) 
+6,TDS20003,Middle Lane ,-0.167330886,0.474612069,-0.784630065,Yuen Long,Yuen Long Highway near Shap Pat Heung Interchange - Eastbound (2) 
+6,TDS20003,Slow Lane,0.135895556,1.239391005,0.776418238,Yuen Long,Yuen Long Highway near Pok Oi Interchange - Eastbound (1) 
+6,TDS20004,Fast Lane,0.388584258,1.130136871,1.036592955,Yuen Long,Yuen Long Highway near Pok Oi Interchange - Eastbound (2) 
+6,TDS20004,Middle Lane,0.135895556,1.239391005,0.516243521,Yuen Long,Yuen Long Highway near Long Fai Road - Eastbound 
+6,TDS20004,Slow Lane,-0.015717665,1.239391005,1.817117107,Yuen Long,Yuen Long Highway near Tsing Long Highway - Eastbound 
+6,TDS20005,Fast Lane,1.348801325,1.348645139,1.296767672,Yuen Long,San Tin Highway near Sha Po Tsuen - Northbound 
+6,TDS20005,Middle Lane,0.6918107,1.239391005,1.036592955,Yuen Long,San Tin Highway near Mo Fan Heung - Northbound 
+6,TDS20005,Slow Lane,0.540197479,1.020882738,1.296767672,Yuen Long,San Tin Highway near Pok Wai - Northbound 
+6,TDS20006,Fast Lane,0.186433296,2.22267821,2.857815976,Yuen Long,San Tin Highway near Kam Pok Road East - Northbound 
+6,TDS20006,Middle Lane,-0.116793146,2.659694745,2.337466541,Yuen Long,San Tin Highway near Fairview Park Boulevard - Northbound 
+6,TDS20006,Slow Lane,-0.824321511,2.878203012,1.817117107,Yuen Long,San Tin Highway near Chun Shin Road - Northbound 
+6,TDS20007,Fast Lane,-0.369481848,0.80237447,1.817117107,Yuen Long,San Tin Highway near Geranium Path - Northbound 
+6,TDS20007,Slow Lane,-0.015717665,1.020882738,0.256068804,Yuen Long,San Tin Highway near Palm Springs Boulevard - Northbound 
+6,TDS20008,Fast Lane,-0.066255406,1.567153407,2.337466541,Yuen Long,San Tin Highway near Mai Po San Tsuen - Northbound 
+6,TDS20008,Slow Lane,-0.470557329,2.441186477,1.296767672,Yuen Long,San Tin Highway near San Tin Soccer Pitch - Northbound 
+6,TDS20009,Fast Lane,-1.835076319,6.920605963,0.776418238,Yuen Long,San Tin Highway near Mai Po Lung - Northbound 
+6,TDS20009,Slow Lane,-0.015717665,-0.0716586,-0.264280631,Yuen Long,San Tin Highway near Tsing Lung Tsuen - Northbound 
+6,TDS30001,Fast Lane,0.540197479,1.130136871,2.077291824,Yuen Long,San Tin Highway near Man Tin Cheung Park - Northbound 
+6,TDS30001,Middle Lane,0.287508777,1.457899273,1.296767672,Yuen Long,Fanling Highway near San Tin Interchange - Eastbound 
+6,TDS30001,Slow Lane,0.338046518,1.567153407,-0.264280631,Yuen Long,Fanling Highway near Chau Tau Tsuen - Eastbound (1) 
+6,TDS30002,Fast Lane,0.843423921,1.67640754,3.117990693,Yuen Long,Fanling Highway near Chau Tau Tsuen - Eastbound (2) 
+6,TDS30002,Middle Lane,-0.066255406,1.67640754,0.776418238,North,Fanling Highway near Kwu Tung - Eastbound (1) 
+6,TDS30002,Slow Lane,-0.015717665,0.474612069,-0.264280631,North,Fanling Highway near Kwu Tung - Eastbound (2) 
+6,TDS30003,Fast Lane,1.096112623,1.348645139,3.638340127,North,Fanling Highway near Kwu Tung - Eastbound (3) 
+6,TDS30003,Middle Lane,0.843423921,1.130136871,1.296767672,North,Fanling Highway near Kwu Tung - Eastbound (4) 
+6,TDS30003,Slow Lane,0.6918107,-0.61792927,-1.3049795,Tsuen Wan,Tuen Mun Road near Yau Kom Tau Village - Eastbound 
+6,TDS30004,Fast Lane,0.944499402,0.474612069,2.077291824,Tsuen Wan,Tuen Mun Road near Yau Kom Tau No. 2 Fresh Water Service Reservoir - Eastbound 
+6,TDS30004,Middle Lane,0.995037143,1.239391005,1.036592955,Tsuen Wan,Tuen Mun Road near Hanley Villa - Eastbound 
+6,TDS30004,Slow Lane,0.439121998,1.348645139,-1.044804782,Tsuen Wan,Tuen Mun Road near Ting Kau - Eastbound (1) 
+6,TDS30005,Fast Lane,0.893961662,1.348645139,4.418864279,Tsuen Wan,Tuen Mun Road near Ting Kau - Eastbound (2) 
+6,TDS30005,Middle Lane,1.601490027,0.474612069,-0.524455348,Tsuen Wan,Tuen Mun Road near Ting Kau - Eastbound (3) 
+6,TDS30005,Middle Lane,0.439121998,0.693120336,0.776418238,Tsuen Wan,Tuen Mun Road near Ting Kau - Eastbound (4) 
+6,TDS30005,Slow Lane,0.742348441,-0.508675136,-1.3049795,Tsuen Wan,Tuen Mun Road near Ting Kau - Eastbound (5) 
+6,TDS30006,Fast Lane,1.449876806,1.348645139,3.37816541,Tsuen Wan,Tuen Mun Road near Sham Tseng - Eastbound (1) 
+6,TDS30006,Middle Lane,0.489659739,1.785661674,1.036592955,Tsuen Wan,Tuen Mun Road near Sham Tseng - Eastbound (2) 
+6,TDS30006,Slow Lane,0.135895556,0.911628604,-0.784630065,Tsuen Wan,Tuen Mun Road near Sham Tseng - Eastbound (3) 
+6,TDS30007,Fast Lane,3.319773201,-0.508675136,-0.524455348,Tsuen Wan,Tuen Mun Road near Sham Tseng - Eastbound (4) 
+6,TDS30007,Slow Lane,0.6918107,-0.727183403,-1.044804782,Tsuen Wan,Tuen Mun Road near Sham Tseng - Eastbound (5) 
+6,TDS30008,Fast Lane,1.652027768,-0.61792927,-0.784630065,Tsuen Wan,Tuen Mun Road near Sham Tseng - Eastbound (6) 
+6,TDS30008,Slow Lane,-0.066255406,-0.290166868,-0.784630065,Tsuen Wan,Tuen Mun Road near Hong Kong Garden - Eastbound (1) 
+6,TDS90001,Fast Lane,0.034820075,0.037595533,0.776418238,Tsuen Wan,Tuen Mun Road near Hong Kong Garden - Eastbound (2) 
+6,TDS90001,Middle Lane,1.298263585,0.474612069,0.256068804,Tsuen Wan,Tuen Mun Road near Ka Loon Tsuen - Eastbound (1) 
+6,TDS90001,Slow Lane,0.085357816,0.583866202,-0.524455348,Tuen Mun,Tuen Mun Road near Ka Loon Tsuen - Eastbound (2) 
+6,TDS90002,Fast Lane,0.6918107,0.256103801,0.516243521,Tuen Mun,Tuen Mun Road near Tai Lam - Eastbound 
+6,TDS90002,Middle Lane ,0.995037143,0.146849667,-0.264280631,Tuen Mun,Tuen Mun Road near Tuen Mun Road Bus-Bus Interchange - Eastbound (1) 
+6,TDS90002,Middle Lane,0.540197479,0.365357935,-0.264280631,Tuen Mun,Tuen Mun Road near Tuen Mun Road Bus-Bus Interchange - Eastbound (2) 
+6,TDS90003,Fast Lane,-0.167330886,0.256103801,0.776418238,Tuen Mun,Tuen Mun Road near Correctional Services Department Married Staff Quarters - Eastbound 
+6,TDS90003,Middle Lane,-0.369481848,1.67640754,2.337466541,Tuen Mun,Tuen Mun Road near Kwun Fat Street - Eastbound 
+6,TDS90003,Slow Lane,-0.217868627,0.911628604,1.036592955,Tuen Mun,Tuen Mun Road near The Aegean - Eastbound 
+6,TDS90004,Fast Lane,-0.369481848,0.256103801,1.036592955,Tuen Mun,Tuen Mun Road near Siu Sau Tsuen - Eastbound 
+6,TDS90004,Middle Lane,-0.318944108,1.457899273,2.077291824,Tuen Mun,Tuen Mun Road near So Kwun Wat Road - Eastbound 
+6,TDS90004,Middle Lane,-0.975934733,0.583866202,1.036592955,Tuen Mun,Tuen Mun Road near Harrow International School Hong Kong - Eastbound (1) 
+6,TDS90005,Fast Lane,-2.340453723,5.281793956,0.516243521,Tuen Mun,Tuen Mun Road near Harrow International School Hong Kong - Eastbound (2) 
+6,TDS90005,Middle Lane,-2.289915983,5.828064625,0.776418238,Tuen Mun,Tuen Mun Road near Castle Peak Bay Immigration Centre - Eastbound 
+6,TDS90005,Slow Lane,-1.380236656,3.970744351,1.296767672,Tuen Mun,Tuen Mun Road near Castle Peak Beach - Eastbound 
+6,TDS90010,Fast Lane,1.045574883,0.365357935,0.516243521,Tuen Mun,Tuen Mun Road near Tuen Mun Siu Lun Government Complex - Southbound 
+6,TDS90010,Slow Lane,0.489659739,0.365357935,-0.004105914,Tuen Mun,Tuen Mun Road near Chi Lok Fa Yuen - Southbound 
+6,TDS90011,Fast Lane,0.843423921,-0.508675136,-0.784630065,Tuen Mun,Tuen Mun Road near San Hui Playground - Southbound 
+6,TDS90011,Slow Lane,1.045574883,-0.399421002,-0.524455348,Tuen Mun,Tuen Mun Road near Fung Tei Light Rail Stop - Southbound 
+6,TDS90012,Fast Lane,0.995037143,-0.0716586,0.516243521,Tuen Mun,Tuen Mun Road near Siu Hong MTR Station - Souththbound 
+6,TDS90012,Slow Lane,0.6918107,-0.61792927,-0.784630065,Tuen Mun,Yuen Long Highway near Kong Sham Western Highway - Westbound (1) 
+6,TDS90013,Fast Lane,0.893961662,-0.0716586,0.256068804,Tuen Mun,Yuen Long Highway near Kong Sham Western Highway - Westbound (2) 
+6,TDS90013,Middle Lane,0.590735219,0.365357935,-0.004105914,Tuen Mun,Yuen Long Highway near Kong Sham Western Highway - Westbound (3) 
+6,TDS90014,Fast Lane,2.157405172,-0.727183403,-1.044804782,Yuen Long,Yuen Long Highway near Shui Fu Road - Westbound 
+6,TDS90014,Middle Lane,0.034820075,0.256103801,1.036592955,Yuen Long,Yuen Long Highway near Hung Tin Road - Westbound (1) 
+6,TDS90014,Slow Lane,-0.318944108,0.037595533,-0.524455348,Yuen Long,Yuen Long Highway near Hung Tin Road - Westbound (2) 
+6,TDS90015,Middle Lane,0.388584258,0.256103801,0.516243521,Yuen Long,Yuen Long Highway near Tong Yan San Tsuen Road - Westbound 
+6,TDS90015,Slow Lane,1.90471647,-0.508675136,-1.044804782,Yuen Long,Yuen Long Highway near Tong Yan San Tsuen Interchange - Westbound 
+6,TDS90016,Fast Lane,1.247725845,-0.61792927,-1.044804782,Yuen Long,Yuen Long Highway near Lam Hau Tsuen - Westbound 
+6,TDS90016,Middle Lane,-0.369481848,0.474612069,-0.004105914,Yuen Long,Yuen Long Highway near Kung Um Road - Westbound 
+6,TDS90016,Middle Lane,0.287508777,0.146849667,-0.264280631,Yuen Long,Yuen Long Highway near Sham Chung Village - Westbound 
+6,TDS90016,Slow Lane,-0.521095069,0.693120336,-0.264280631,Yuen Long,Yuen Long Highway near Shap Pat Heung Interchange - Westbound (1) 
+6,TDS90017,Fast Lane,1.753103248,-0.290166868,-0.004105914,Yuen Long,Yuen Long Highway near Shap Pat Heung Interchange - Westbound (2) 
+6,TDS90017,Middle Lane,0.742348441,1.130136871,1.55694239,Yuen Long,Yuen Long Highway near Pok Oi Interchange - Westbound (1) 
+6,TDS90017,Slow Lane,0.540197479,-0.399421002,-1.044804782,Yuen Long,Yuen Long Highway near Pok Oi Interchange - Westbound (2) 
+7,TDS10001,Fast Lane,-2.643680166,4.51701502,0.516243521,Yuen Long,Yuen Long Highway near Long Fai Road - Westbound 
+7,TDS10001,Middle Lane,-2.744755646,6.265081161,0.256068804,Yuen Long,Yuen Long Highway near Tsing Long Highway - Westbound (1) 
+7,TDS10001,Slow Lane,-0.67270829,1.894915808,2.337466541,Yuen Long,Yuen Long Highway near Tsing Long Highway - Westbound (2) 
+7,TDS10002,Fast Lane,0.439121998,0.146849667,0.516243521,Yuen Long,San Tin Highway near Sha Po Tsuen - Southbound 
+7,TDS10002,Slow Lane,0.034820075,0.146849667,-0.004105914,Yuen Long,San Tin Highway near Mo Fan Heung - Southbound 
+7,TDS10003,Fast Lane,0.540197479,-0.180912734,-0.264280631,Yuen Long,San Tin Highway near Pok Wai - Southbound 
+7,TDS10003,Slow Lane,0.742348441,-0.399421002,-0.784630065,Yuen Long,San Tin Highway near Kam Pok Road East - Southbound 
+7,TDS10004,Fast Lane,0.792886181,0.256103801,0.256068804,Yuen Long,San Tin Highway near Fairview Park Boulevard - Southbound 
+7,TDS10004,Middle Lane,0.388584258,0.256103801,0.256068804,Yuen Long,San Tin Highway near Chun Shin Road - Southbound 
+7,TDS10004,Slow Lane,-0.318944108,0.037595533,-1.044804782,Yuen Long,San Tin Highway near Geranium Path - Southbound 
+7,TDS10005,Fast Lane,0.944499402,-0.399421002,-0.524455348,Yuen Long,San Tin Highway near Palm Springs Boulevard - Southbound 
+7,TDS10005,Slow Lane,0.489659739,-0.508675136,-1.044804782,Yuen Long,San Tin Highway near Mai Po Shan Tsuen - Southbound 
+7,TDS10006,Fast Lane,-0.723246031,0.693120336,0.776418238,Yuen Long,San Tin Highway near San Tin Soccer Pitch - Southbound 
+7,TDS10006,Slow Lane,-0.824321511,0.474612069,-0.004105914,Yuen Long,San Tin Highway near Mai Po Lung - Southbound 
+7,TDS10007,Fast Lane,-0.521095069,1.020882738,2.337466541,Yuen Long,San Tin Highway near Tsing Lung Tsuen - Southbound 
+7,TDS10007,Slow Lane,-0.57163281,1.348645139,1.036592955,Yuen Long,San Tin Highway near Man Tin Cheung Park - Southbound 
+7,TDS10010,Fast Lane,-0.420019588,2.768948879,2.857815976,Yuen Long,San Tin Highway near San Tin Interchange - Southbound 
+7,TDS10010,Slow Lane,-0.470557329,2.113424076,1.817117107,Yuen Long,Fanling Highway near Chau Tau Tsuen - Westbound (1) 
+7,TDS10011,Fast Lane,-0.470557329,2.550440611,2.077291824,Yuen Long,Fanling Highway near Chau Tau Tsuen - Westbound (2) 
+7,TDS10011,Middle Lane,-0.521095069,0.911628604,0.256068804,North,Fanling Highway near Kwu Tung - Westbound (1) 
+7,TDS10011,Slow Lane,-1.683463098,0.474612069,-0.784630065,North,Fanling Highway near Kwu Tung - Westbound (2) 
+7,TDS10012,Fast Lane,-0.167330886,0.80237447,2.337466541,North,Fanling Highway near Kwu Tung - Westbound (3) 
+7,TDS10012,Middle Lane,0.034820075,1.567153407,1.55694239,North,Fanling Highway near Kwu Tung - Westbound (4) 
+7,TDS10012,Slow Lane,0.287508777,-0.0716586,-0.784630065,Southern,Aberdeen Praya Road near Aberdeen Wholesale Fish Market - Eastbound 
+7,TDS10013,Fast Lane,-0.975934733,2.768948879,1.55694239,Southern,Aberdeen Praya Road near Aberdeen Wholesale Fish Market - Westbound 
+7,TDS10013,Middle Lane,-0.116793146,1.67640754,1.036592955,Tuen Mun,Castle Peak Rd-Lam Tei near Lam Tei Pet Garden - Northbound 
+7,TDS10013,Slow Lane,-0.015717665,0.146849667,-1.044804782,Tuen Mun,Castle Peak Rd-Hung Shui Kui near Shun Tat Street - Northbound 
+7,TDS20001,Fast Lane,0.338046518,0.911628604,1.55694239,Tuen Mun,Castle Peak Rd-Hung Shui Kui near Tin Ha Road - Northbound 
+7,TDS20001,Slow Lane,0.388584258,1.348645139,-0.004105914,Yuen Long,Castle Peak Rd-Hung Shui Kiu near Hung Shui Kiu Light Rail Stop - Northbound 
+7,TDS20002,Fast Lane,0.439121998,0.474612069,1.036592955,Tuen Mun,Castle Peak Rd-Hung Shui Kui near Shun Tat Street - Southbound 
+7,TDS20002,Slow Lane,0.489659739,0.80237447,-0.264280631,Tuen Mun,Castle Peak Rd-Hung Shui Kui near Tin Ha Road - Southbound 
+7,TDS20003,Fast Lane,-0.369481848,0.80237447,1.296767672,Tuen Mun,Castle Peak Rd-Hung Shui Kui near Hung Shui Kiu Main Street - Southbound 
+7,TDS20003,Middle Lane,0.388584258,1.348645139,1.817117107,Tsuen Wan,Castle Peak Rd-Kwai Chung near Shing Mun Road - Eastbound 
+7,TDS20003,Middle Lane,0.287508777,-0.180912734,-0.524455348,Tsuen Wan,Castle Peak Rd-Kwai Chung near Kwok Shui Road Park - Eastbound 
+7,TDS20003,Slow Lane,0.085357816,0.474612069,0.256068804,Kwai Tsing,Castle Peak Rd-Kwai Chung near Yip Shing Street Playground - Southbound 
+7,TDS20004,Fast Lane,-0.015717665,1.020882738,1.296767672,Kwai Tsing,Castle Peak Rd-Kwai Chung near Tai Wo Interchange - Southbound 
+7,TDS20004,Middle Lane,1.096112623,0.583866202,0.256068804,Tsuen Wan,Castle Peak Rd-Tseun Wan near Texaco Road Flyover - Westbound 
+7,TDS20004,Slow Lane,-0.420019588,2.113424076,2.337466541,Tsuen Wan,Castle Peak Rd-Kwai Chung near Kwok Shui Road Park - Westbound (1) 
+7,TDS20005,Fast Lane,0.64127296,1.348645139,1.296767672,Tsuen Wan,Castle Peak Rd-Kwai Chung near Kwok Shui Road Park - Westbound (2) 
+7,TDS20005,Middle Lane,1.854178729,0.365357935,0.256068804,Kwai Tsing,Castle Peak Rd-Kwai Chung near Central Kwai Chung Park - Northbound (1) 
+7,TDS20005,Slow Lane,0.64127296,1.457899273,2.077291824,Kwai Tsing,Castle Peak Rd-Kwai Chung near Central Kwai Chung Park - Northbound (2) 
+7,TDS20006,Fast Lane,0.085357816,1.348645139,1.55694239,Tuen Mun,Castle Peak Rd-Lam Tei near Lam Tei Interchange - Northbound 
+7,TDS20006,Middle Lane,0.034820075,1.567153407,1.817117107,Tuen Mun,Castle Peak Rd-Lam Tei near Miu Fat Buddhist Monastery - Northbound 
+7,TDS20006,Slow Lane,-0.369481848,2.113424076,2.337466541,Tuen Mun,Castle Peak Rd-Lam Tei near Lam Tei Main Street - Southbound 
+7,TDS20007,Fast Lane,-0.369481848,1.348645139,1.55694239,Tuen Mun,Castle Peak Rd-Lam Tei near Fuk Hang Playground - Southbound 
+7,TDS20007,Slow Lane,-0.217868627,0.693120336,0.256068804,Yuen Long,Castle Peak Rd-Ping Shan near Hung Tin Road - Eastbound 
+7,TDS20008,Fast Lane,-0.521095069,1.348645139,2.597641258,Yuen Long,Castle Peak Rd-Ping Shan near Fui Sha Wai - Eastbound 
+7,TDS20008,Slow Lane,-0.723246031,0.693120336,0.516243521,Yuen Long,Castle Peak Rd-Ping Shan near Tong Yan San Tsuen Playground - Eastbound 
+7,TDS20009,Fast Lane,-0.925396992,4.735523287,1.296767672,Yuen Long,Castle Peak Rd-Ping Shan near Ping Shan Light Rail Stop - Eastbound 
+7,TDS20009,Slow Lane,-0.167330886,0.583866202,-0.004105914,Yuen Long,Castle Peak Rd-Ping Shan near Hung Tin Road - Westbound 
+7,TDS30001,Fast Lane,-0.167330886,1.130136871,2.597641258,Yuen Long,Castle Peak Rd-Ping Shan near Fui Sha Wai - Westbound 
+7,TDS30001,Middle Lane,0.489659739,0.474612069,1.817117107,Yuen Long,Castle Peak Rd-Ping Shan near Tong Yan San Tsuen Playground - Westbound 
+7,TDS30001,Slow Lane,0.287508777,0.474612069,-0.004105914,Yuen Long,Castle Peak Rd-Ping Shan near Long Tin Road - Westbound 
+7,TDS30002,Fast Lane,0.792886181,0.365357935,1.55694239,Central and Western,Harcourt Road near Tim Mei Avenue - Eastbound 
+7,TDS30002,Middle Lane,-0.57163281,0.583866202,0.256068804,Wan Chai,Harcourt Road near The Hong Kong Academy for Performing Arts - Eastbound 
+7,TDS30002,Slow Lane,-0.116793146,1.348645139,-0.524455348,Wan Chai,Gloucestor Road near Gloucester Road Garden - Eastbound 
+7,TDS30003,Fast Lane,1.399339066,0.365357935,1.55694239,Wan Chai,Gloucestor Road near Stewart Road - Eastbound 
+7,TDS30003,Middle Lane,0.64127296,0.583866202,0.516243521,Wan Chai,Gloucestor Road near Fleming Road - Westbound 
+7,TDS30003,Slow Lane,-0.116793146,1.020882738,-0.264280631,Wan Chai,Gloucestor Road near Wan Chai Sport Ground - Westbound 
+7,TDS30004,Fast Lane,0.287508777,0.146849667,1.296767672,North,Jockey Club Road near Fanling Government Primary School - Southbound 
+7,TDS30004,Middle Lane,1.803640989,1.239391005,1.55694239,North,Jockey Club Road near Fanling Highway - Southbound 
+7,TDS30004,Slow Lane,2.561707095,0.256103801,-1.044804782,North,Jockey Club Road near Fanling Government Primary School - Northbound 
+7,TDS30005,Fast Lane,1.652027768,-0.180912734,1.296767672,North,Jockey Club Road near Fanling Highway - Northbound 
+7,TDS30005,Middle Lane ,1.753103248,0.256103801,-0.004105914,Tuen Mun,Lung Fu Road near Wong Chu Road - Eastbound 
+7,TDS30005,Middle Lane,1.550952287,-0.508675136,-0.004105914,Tuen Mun,Wong Chu Road near Hoi Wong Road - Eastbound 
+7,TDS30005,Slow Lane,1.247725845,-0.508675136,-0.784630065,Tuen Mun,Wong Chu Road near Tuen Mun Heung Sze Wui Road - Eastbound 
+7,TDS30006,Fast Lane,1.298263585,0.146849667,1.036592955,Tuen Mun,Wong Chu Road near Hoi Wong Road - Westbound 
+7,TDS30006,Middle Lane,0.64127296,0.146849667,-0.264280631,Tuen Mun,Wong Chu Road near Tuen Mun Heung Sze Wui Road - Westbound 
+7,TDS30006,Slow Lane,0.388584258,1.130136871,-0.524455348,Yuen Long,Long Tin Road near Tin Fuk Road - Southbound 
+7,TDS30007,Fast Lane,1.096112623,-0.508675136,-0.264280631,Yuen Long,Long Tin Road near Yung Yuen Road - Southbound 
+7,TDS30007,Slow Lane,0.388584258,0.256103801,-0.264280631,Yuen Long,Long Tin Road near Shui Pin Wai Interchange - Southbound 
+7,TDS30008,Fast Lane,2.410093874,-0.290166868,-0.004105914,Yuen Long,Long Tin Road near Tong Yan San Tsuen Interchange - Southbound 
+7,TDS30008,Slow Lane,1.399339066,-0.0716586,-0.524455348,Yuen Long,Long Tin Road near Tin Fuk Road - Northbound 
+7,TDS90001,Fast Lane,0.540197479,1.348645139,2.597641258,Yuen Long,Long Tin Road near Yung Yuen Road - Northbound 
+7,TDS90001,Middle Lane,0.540197479,1.020882738,1.036592955,Yuen Long,Long Tin Road near Shui Pin Wai Interchange - Northbound 
+7,TDS90001,Slow Lane,0.085357816,0.037595533,-0.784630065,Yuen Long,Long Tin Road near Tong Yan San Tsuen Interchange - Northbound 
+7,TDS90004,Fast Lane,-1.481312137,2.878203012,1.296767672,Sha Tin,Ma On Shan Bypass near Hang Fai Street Park - Eastbound 
+7,TDS90004,Middle Lane ,-2.340453723,5.828064625,0.776418238,Sha Tin,Ma On Shan Bypass near Ma On Shan Fire Station - Eastbound 
+7,TDS90004,Middle Lane,-2.239378242,4.189252618,0.776418238,Sha Tin,Ma On Shan Bypass near Ma On Shan Service Reservoir - Eastbound 
+7,TDS90005,Fast Lane,-2.087765021,3.533727815,1.296767672,Sha Tin,Ma On Shan Bypass near Lee On Estate - Eastbound 
+7,TDS90005,Middle Lane,-1.582387617,2.004169942,0.516243521,Sha Tin,Ma On Shan Bypass near Cheung Muk Tau - Eastbound 
+7,TDS90005,Slow Lane,-1.329698915,4.079998484,1.296767672,Sha Tin,Ma On Shan Bypass near Hang Fai Street Park - Westbound 
+7,TDS90010,Fast Lane,0.236971037,1.130136871,0.516243521,Sha Tin,Ma On Shan Bypass near Ma On Shan Fire Station - Westbound 
+7,TDS90010,Slow Lane,0.489659739,-0.508675136,-1.3049795,Sha Tin,Ma On Shan Bypass near Ma On Shan Service Reservoir - Westbound 
+7,TDS90011,Fast Lane,0.439121998,0.146849667,-0.004105914,Sha Tin,Ma On Shan Bypass near Lee On Estate - Westbound 
+7,TDS90011,Slow Lane,0.338046518,0.474612069,-0.784630065,Sha Tin,Ma On Shan Bypass near Wu Kai Sha MTR Station - Westbound 
+7,TDS90012,Fast Lane,0.135895556,0.037595533,0.516243521,Sha Tin,Ma On Shan Bypass near Cheung Muk Tau - Westbound 
+7,TDS90012,Slow Lane,0.388584258,0.037595533,-0.524455348,Sha Tin,Ma On Shan Road near Ah Kung Kok Fishermen Village - Northbound 
+7,TDS90013,Fast Lane,2.713320316,-0.61792927,-1.044804782,Sha Tin,Ma On Shan Road near Tai Shui Hang MTR Station - Northbound 
+7,TDS90013,Middle Lane,-0.066255406,0.256103801,0.256068804,Sha Tin,Ma On Shan Road near Hang Tai Road - Northbound 
+7,TDS90014,Fast Lane,1.096112623,-0.508675136,-0.784630065,Sha Tin,Ma On Shan Road near Tai Shui Hang MTR Station - Southbound 
+7,TDS90014,Middle Lane,0.135895556,0.256103801,0.776418238,Sha Tin,Ma On Shan Road near Hang Tai Road - Southbound 
+7,TDS90014,Slow Lane,-0.57163281,-0.508675136,-1.3049795,Kwun Tong,New Clear Water Bay Road near St. Joseph's Anglo-Chinese School - Eastbound 
+7,TDS90015,Fast Lane,1.096112623,-0.61792927,-1.044804782,Kwun Tong,New Clear Water Bay Road near Shun Lee Disciplined Services Quarters - Eastbound (1) 
+7,TDS90015,Middle Lane,0.64127296,1.239391005,2.337466541,Kwun Tong,New Clear Water Bay Road near Shun Lee Disciplined Services Quarters - Eastbound (2) 
+7,TDS90015,Slow Lane,0.742348441,0.365357935,-1.3049795,Kwun Tong,New Clear Water Bay Road near New Clear Water Bay Road Sitting-out Area - Eastbound 
+7,TDS90016,Fast Lane,0.489659739,0.693120336,0.776418238,Kwun Tong,New Clear Water Bay Road near Shun Lee Disciplined Services Quarters - Westbound (1) 
+7,TDS90016,Middle Lane,0.439121998,0.474612069,-1.044804782,Kwun Tong,New Clear Water Bay Road near Shun Lee Disciplined Services Quarters - Westbound (2) 
+7,TDS90016,Middle Lane,0.085357816,1.457899273,0.256068804,Kwun Tong,New Clear Water Bay Road near New Clear Water Bay Road Sitting-out Area - Westbound 
+7,TDS90016,Slow Lane,-0.369481848,0.037595533,-0.784630065,Sai Kung,New Clear Water Bay Road near On Sau Road - Westbound 
+7,TDS90017,Fast Lane,2.00579195,0.474612069,0.776418238,Tsuen Wan,Penny's Bay Highway near North Lantau Highway - Southbound 
+7,TDS90017,Middle Lane,1.096112623,0.80237447,-0.004105914,Tsuen Wan,Penny's Bay Highway near Inspiration Lake Recreation Centre - Southbound 
+7,TDS90017,Slow Lane,0.893961662,0.037595533,-0.784630065,Tsuen Wan,Penny's Bay Highway near North Lantau Highway - Northbound 
+7,TDS90018,Fast Lane,0.742348441,-0.727183403,-1.3049795,Tsuen Wan,Penny's Bay Highway near Inspiration Lake Recreation Centre - Northbound 
+7,TDS90018,Middle Lane,0.489659739,0.693120336,-0.264280631,Kowloon City,Prince Edward Road East near Tak Ku Ling Road - Northbound 
+7,TDS90018,Slow Lane,0.439121998,-0.0716586,-1.044804782,Kowloon City,Prince Edward Road East near Lee Kau Yan Memorial School - Northbound 
+7,TDS90020,Fast Lane,-0.066255406,-0.180912734,-0.004105914,Kowloon City,Prince Edward Road East near Regal Oriental Hotel - Southbound 
+7,TDS90020,Middle Lane,-0.67270829,1.567153407,0.776418238,Kowloon City,Prince Edward Road East near Lee Kau Yan Memorial School - Southbound 
+7,TDS90020,Slow Lane,-0.116793146,0.693120336,0.516243521,Southern,Pok Fu Lam Road near St. Paul's College Primary School - Eastbound 
+7,TDS90021,Fast Lane,0.540197479,-0.180912734,-0.004105914,Southern,Shek Pai Wan Road near Wah Kwai Estate - Eastbound 
+8,AID01101,Fast Lane,1.045574883,-0.727183403,-1.044804782,Southern,Shek Pai Wan Road near Shek Pai Wan Road Playground - Eastbound 
+8,AID01101,Middle Lane,-0.217868627,-0.508675136,-1.044804782,Southern,Shek Pai Wan Road near Wah Fu Road - Westbound 
+8,AID01101,Slow Lane,-1.279161175,-0.61792927,-1.3049795,Southern,Shek Pai Wan Road near Wah Kwai Estate - Westbound 
+8,AID01102,Fast Lane,0.034820075,0.037595533,1.036592955,Southern,Shek Pai Wan Road near Shek Pai Wan Road Playground - Westbound 
+8,AID01102,Middle Lane,-0.015717665,-0.180912734,-0.004105914,Sha Tin,Tai Chung Kui Road near Shing Mun River Promenade Garden No. 1 - Northbound 
+8,AID01102,Slow Lane,-0.116793146,-0.61792927,-1.044804782,Sha Tin,Tai Chung Kiu Road near Sha Tin Wai Road - Northbound 
+8,AID01103,Fast Lane,0.540197479,-0.0716586,0.776418238,Sha Tin,Tai Chung Kiu Road near Kong Pui Street Rest Garden - Northbound 
+8,AID01103,Slow Lane,-1.228623435,-0.180912734,-1.044804782,Sha Tin,Tai Chung Kiu Road near Sha Tin Road - Northbound 
+8,AID01104,Fast Lane,0.489659739,-0.180912734,0.256068804,Sha Tin,Tai Chung Kiu Road near Sha Tin Wai Road - Southbound 
+8,AID01104,Slow Lane,-0.57163281,0.583866202,-0.004105914,Sha Tin,Tai Chung Kiu Road near Kong Pui Street Rest Garden - Southbound 
+8,AID01105,Fast Lane,0.742348441,0.037595533,1.55694239,Sha Tin,Tai Chung Kiu Road near Sha Tin Road - Southbound 
+8,AID01105,Slow Lane,0.236971037,-0.0716586,-0.264280631,Sha Tin,Tai Chung Kui Road near Shing Mun River Promenade Garden No. 2 - Southbound 
+8,AID01106,Fast Lane,-0.57163281,0.037595533,0.776418238,Tai Po,Ting Kok Road near Fortune Garden - Eastbound 
+8,AID01107,Fast Lane,0.135895556,0.037595533,0.776418238,Tai Po,Ting Kok Road near Golf Park Golf Driving Range - Eastbound 
+8,AID01108,Fast Lane,-0.015717665,0.037595533,1.036592955,Tai Po,Ting Kok Road near Dai Kwai Street - Eastbound 
+8,AID01108,Slow Lane,-0.015717665,-0.180912734,-0.264280631,Tai Po,Ting Kok Road near Ting Hing Road - Eastbound 
+8,AID01109,Fast Lane,-0.470557329,-0.727183403,-1.3049795,Tai Po,Ting Kok Road near Dai Fu Street Substation - Eastbound 
+8,AID01109,Slow Lane,-0.318944108,-0.290166868,-0.264280631,Tai Po,Ting Kok Road near Fung Yuen Road - Eastbound 
+8,AID01110,Fast Lane,-0.167330886,-0.290166868,-0.004105914,Tai Po,Ting Kok Road near Yue Kok Village Sitting-out Area - Eastbound 
+8,AID01110,Middle Lane,-0.470557329,-0.0716586,0.516243521,Tai Po,Ting Kok Road near Chung Nga Road - Eastbound 
+8,AID01110,Slow Lane,-0.67270829,-0.727183403,-0.784630065,Tai Po,Ting Kok Road near Sam Mun Tsai Road - Westbound 
+8,AID01111,Fast Lane,-0.015717665,0.146849667,1.296767672,Tai Po,Ting Kok Road near Fortune Garden - Westbound 
+8,AID01111,Middle Lane,0.186433296,-0.180912734,-0.264280631,Tai Po,Ting Kok Road near Lo Fai Road - Westbound 
+8,AID01111,Middle Lane,0.287508777,-0.290166868,-0.264280631,Tai Po,Ting Kok Road near Ting Hing Road - Westbound 
+8,AID01111,Slow Lane,-0.167330886,-0.508675136,-0.004105914,Tai Po,Ting Kok Road near Dai Fu Street Substation - Westbound 
+8,AID01112,Fast Lane,0.338046518,-0.61792927,-0.524455348,Tai Po,Ting Kok Road near Dai Fat Street - Westbound 
+8,AID01112,Middle Lane,-0.015717665,-0.180912734,-1.044804782,Tai Po,Ting Kok Road near Yue Kok - Westbound 
+8,AID01112,Middle Lane,-0.420019588,0.256103801,-0.004105914,Tai Po,Ting Kok Road near Dai Fuk Street - Westbound 
+8,AID01112,Slow Lane,-0.723246031,-0.290166868,1.036592955,Tai Po,Ting Kok Road near On Po Road - Westbound 
+8,AID01113,Fast Lane,0.388584258,-0.399421002,0.516243521,Tai Po,Tai Po Road - Yuen Chau Tsai near Kwong Wang Street - Souhtbound 
+8,AID01113,Middle Lane,0.388584258,-0.61792927,-0.784630065,Tai Po,Tai Po Road - Tai Po Kau near Tai Po Kau Fresh Water Pumping Station - Souhtbound 
+8,AID01114,Fast Lane,0.287508777,-0.61792927,-0.524455348,Tai Po,Tai Po Road - Tai Po Kau near Yat Yiu Avenue - Southbound 
+8,AID01114,Middle Lane,0.742348441,-0.508675136,-0.524455348,Tai Po,Tai Po Road - Tai Po Kau near Lai Chi Hang - Southbound 
+8,AID01115,Fast Lane,-0.015717665,-0.508675136,-0.264280631,Tai Po,Tai Po Road - Tai Po Kau near Tai Po Kau Garden - Souhtbound 
+8,AID01115,Slow Lane,-0.723246031,-0.290166868,-0.524455348,Tai Po,Tai Po Road - Tai Po Kau near Tai Po Kau Park - Southbound 
+8,AID01116,Fast Lane,0.034820075,-0.399421002,-0.004105914,Tai Po,Tai Po Road - Tai Po Kau near Japanese International School - Southbound 
+8,AID01116,Slow Lane,0.085357816,-0.61792927,-1.044804782,Tai Po,Tai Po Road - Tai Po Kau near Po Leung Kuk Tin Ka Ping Millennium Primary School - Southbound 
+8,AID01117,Fast Lane,0.186433296,-0.399421002,-0.264280631,Tai Po,Tai Po Road - Tai Po Kau near Cheung Shue Tan Road - Southbound 
+8,AID01117,Middle Lane,-0.167330886,-0.727183403,-1.044804782,Tai Po,Tai Po Road - Tai Po Kau near Dragon Fountain - Southbound 
+8,AID01117,Middle Lane,0.085357816,-0.61792927,-0.784630065,Sha Tin,Tai Po Road - Ma Liu Shui near Tai Po Mei - Southbound 
+8,AID01117,Slow Lane,-0.268406367,-0.727183403,-1.044804782,Sha Tin,Tai Po Road - Ma Liu Shui near Chek Nai Ping - Souhtbound 
+8,AID01118,Fast Lane,-0.167330886,-0.508675136,-0.524455348,Sha Tin,Tai Po Road - Ma Liu Shui near University Avenue - Southbound 
+8,AID01118,Middle Lane,-0.57163281,-0.180912734,-0.524455348,Sha Tin,Tai Po Road - Ma Liu Shui near De Yucca - Southbound 
+8,AID01119,Fast Lane,-0.67270829,-0.180912734,-0.004105914,Sha Tin,"Tai Po Road - Ma Liu Shui near Hyatt Regency Hong Kong, Sha Tin - Southbound "
+8,AID01119,Middle Lane,-1.026472473,0.256103801,0.516243521,Sha Tin,Tai Po Road - Ma Liu Shui near Kau To Shan Road - Southbound 
+8,AID01119,Slow Lane,-1.531849877,0.256103801,-0.004105914,Tai Po,Tai Po Road - Tai Po Kau near Tai Po Kau Fresh Water Pumping Station - Northbound 
+8,AID01120,Fast Lane,0.338046518,-0.508675136,-0.264280631,Tai Po,Tai Po Road - Tai Po Kau near Yin Tse Lane - Northbound 
+8,AID01120,Middle Lane,-0.420019588,-0.399421002,-0.784630065,Tai Po,Tai Po Road - Tai Po Kau near Lai Chi Hang - Northbound 
+8,AID01120,Slow Lane,-1.178085694,0.693120336,0.776418238,Tai Po,Tai Po Road - Tai Po Kau near Tai Po Kau Park - Northbound 
+8,AID01121,Slow Lane,0.034820075,-0.399421002,-0.784630065,Tai Po,Tai Po Road - Tai Po Kau near Japanese International School - Northbound 
+8,AID01122,Fast Lane,0.338046518,-0.508675136,-0.264280631,Tai Po,Tai Po Road - Tai Po Kau near Po Leung Kuk Tin Ka Ping Millennium Primary School - Northbound 
+8,AID01122,Slow Lane,0.590735219,-0.61792927,-0.784630065,Tai Po,Tai Po Road - Tai Po Kau near Cheung Shue Tan Road - Northbound 
+8,AID01123,Fast Lane,-0.62217055,-0.0716586,1.296767672,Tai Po,Tai Po Road - Tai Po Kau near Dragon Fountain - Northbound 
+8,AID01123,Slow Lane,-1.026472473,-0.0716586,0.776418238,Tai Po,Tai Po Road - Tai Po Kau near Tai Po Mei - Northbound 
+8,AID01124,Fast Lane,0.489659739,-0.399421002,0.516243521,Sha Tin,Tai Po Road - Ma Liu Shui near Chek Nai Ping - Northbound 
+8,AID01124,Slow Lane,0.489659739,-0.0716586,0.776418238,Sha Tin,Tai Po Road - Ma Liu Shui near University Avenue - Northbound 
+8,AID01125,Fast Lane,0.540197479,-0.0716586,1.036592955,Sha Tin,Tai Po Road - Ma Liu Shui near De Yucca - Northbound 
+8,AID01125,Slow Lane,-0.318944108,-0.290166868,-0.524455348,Sha Tin,Tai Po Road - Ma Liu Shui near University MTR Station - Northbound 
+8,AID01126,Fast Lane,1.197188104,0.146849667,1.296767672,Sha Tin,Tai Po Road - Ma Liu Shui near Sha Tin Sewage Treatment Works - Northbound 
+8,AID01126,Slow Lane,0.287508777,-0.290166868,-0.004105914,Tai Po,Tai Po Tai Wo Road near Tai Po Arts Centre - Eastbound 
+8,AID01127,Fast Lane,0.590735219,0.474612069,1.817117107,Tai Po,Tai Po Tai Wo Road near New Territories North Regional Police Headquarters - Eastbound 
+8,AID01127,Slow Lane,0.388584258,-0.180912734,-0.004105914,Tai Po,Tai Po Tai Wo Road near New Territories North Regional Police Headquarters - Westbound 
+8,AID01128,Fast Lane,1.197188104,-0.290166868,0.516243521,Tai Po,Tai Po Tai Wo Road near Yuen Shin Park - Westbound 
+8,AID01128,Slow Lane,0.6918107,-0.180912734,0.516243521,Tuen Mun,Tsing Tin Road near Tsing Tin Playground - Eastbound 
+8,AID01129,Fast Lane,0.843423921,-0.508675136,-0.524455348,Tuen Mun,Tsing Tin Road near Tuen Mun Tang Shiu Kin Sports Ground - Eastbound 
+8,AID01129,Slow Lane,0.893961662,-0.508675136,-0.264280631,Tuen Mun,Tsing Tin Road near Tuen Mun Hospital - Eastbound 
+8,AID01131,Fast Lane,1.449876806,-0.399421002,0.256068804,Tuen Mun,Tsing Tin Road near Tsing Tin Playground - Westbound 
+8,AID01131,Slow Lane,1.348801325,-0.727183403,-0.784630065,Tuen Mun,Tsing Tin Road near Tuen Mun Hospital - Westbound 
+8,AID01132,Fast Lane,1.247725845,-0.61792927,-0.524455348,Yuen Long,Tin Ying Road near Tin Wah Road - Northbound 
+8,AID01132,Middle Lane,0.489659739,-0.290166868,-0.524455348,Yuen Long,Tin Ying Road near Tin Sau Road - Northbound 
+8,AID01132,Slow Lane,0.742348441,-0.727183403,-0.784630065,Yuen Long,Tin Ying Road near Tin Yuet Road - Northbound 
+8,AID01133,Fast Lane,1.449876806,-0.399421002,0.256068804,Yuen Long,Tin Ying Road near Tin Sau Road - Southbound 
+8,AID01133,Slow Lane,0.893961662,-0.508675136,-0.524455348,Yuen Long,Tin Ying Road near Tin Yuet Road - Southbound 
+8,AID01134,Fast Lane,0.843423921,-0.399421002,0.516243521,Yuen Long,Tin Ying Road near Lau Fau Shan Fire Station Cum Ambulance Depot - Westbound 
+8,AID01134,Slow Lane,0.843423921,-0.290166868,-0.264280631,Tai Po,Yuen Shin Road near Yuen Chau Tsai Park - Northbound 
+8,AID01135,Fast Lane,0.843423921,0.037595533,0.256068804,Tai Po,Yuen Shin Road near Tai Po Tai Wo Road - Northbound 
+8,AID01135,Slow Lane,0.944499402,-0.290166868,0.516243521,Tai Po,Yuen Shin Road near Dai Fat Street - Northbound 
+8,AID01136,Slow Lane,0.590735219,-0.508675136,-1.044804782,Tai Po,Yuen Shin Road near Tai Po Tai Wo Road - Southbound 
+8,AID01201,Fast Lane,-0.521095069,-0.180912734,0.516243521,Tai Po,Yuen Shin Road near Dai Fat Street - Southbound 
+8,AID01201,Slow Lane,-0.874859252,0.693120336,1.296767672,Tai Po,Yuen Shin Road near Dai Fuk Street - Southbound 
